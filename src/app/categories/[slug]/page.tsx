@@ -1,14 +1,10 @@
-'use client';
-
 import { notFound } from 'next/navigation';
 import { getSymbolsByCategory, categoryInfoList } from '@/data/symbols';
 import MainLayout from '@/components/layout/MainLayout';
 import SymbolGrid from '@/components/symbols/SymbolGrid';
 import Link from 'next/link';
-import { useSymbolCombiner } from '@/context/SymbolCombinerContext';
 
 export default function CategoryPage({ params }: { params: { slug: string } }) {
-  const { addSymbol } = useSymbolCombiner();
   const { slug } = params;
   
   // Get current category information
@@ -52,7 +48,6 @@ export default function CategoryPage({ params }: { params: { slug: string } }) {
         {/* Symbol grid */}
         <SymbolGrid 
           symbols={symbols} 
-          onAddToCombiner={addSymbol}
         />
         
         {/* Other categories */}

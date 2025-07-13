@@ -64,26 +64,15 @@ const categoryMap = {
   }
 };
 
-// 动态生成元数据
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
-  const { slug } = params;
-  const category = categoryMap[slug as keyof typeof categoryMap];
-  
-  if (!category) {
-    return {
-      title: 'Category Not Found | Copy and Paste Symbols',
-      description: 'The requested symbol category could not be found.'
-    };
+// 由于 Next.js 的限制，我们不能在这里使用动态元数据
+// 改为使用静态元数据
+export const metadata: Metadata = {
+  title: "Symbol Category | Copy and Paste Symbols | copyandpastesymbols.pro",
+  description: "Browse and copy symbols from our categorized collection. Find the perfect symbols for your messages, social media posts, and more.",
+  alternates: {
+    canonical: "https://copyandpastesymbols.pro/categories"
   }
-  
-  return {
-    title: `${category.title} Symbols | Copy and Paste | copyandpastesymbols.pro`,
-    description: category.description,
-    alternates: {
-      canonical: `https://copyandpastesymbols.pro/categories/${slug}`
-    }
-  };
-}
+};
 
 export default function CategoryLayout({
   children,
