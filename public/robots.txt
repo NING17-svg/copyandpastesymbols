@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /favicon.ico
+
+User-agent: Googlebot-Image
+Disallow: /favicon.ico
+
+Sitemap: https://copyandpastesymbols.pro/sitemap.xml 
