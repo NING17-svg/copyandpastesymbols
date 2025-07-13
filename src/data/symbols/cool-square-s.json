@@ -1,0 +1,267 @@
+[
+    {
+        "symbol": "□",
+        "name": "White Square Symbol",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "░",
+        "name": "Light Shade Symbol",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "■",
+        "name": "Black Square Symbol",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "☒",
+        "name": "cross within square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "☐",
+        "name": "white square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "❒",
+        "name": "Upper Right Shadowed White Square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▥",
+        "name": "Square with Vertical Fill",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▤",
+        "name": "Square with Horizontal Fill",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▦",
+        "name": "Square with Orthogonal Crosshatch Fill",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▧",
+        "name": "Square with Upper Left To Lower Right Fill",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▨",
+        "name": "Square with Upper Right To Lower Left Fill",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▩",
+        "name": "Square with Diagonal Crosshatch Fill",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◧",
+        "name": "Square with Left Half Black",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◨",
+        "name": "Square with Right Half Black",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◩",
+        "name": "Square with Lower Right Diagonal Half Black",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◪",
+        "name": "White Square with Rounded Corners",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◫",
+        "name": "White Square with Vertical Bisecting Line",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▭",
+        "name": "White Rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▯",
+        "name": "White Vertical Rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "⌧",
+        "name": "cross",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▒",
+        "name": "Dark Shade Symbol",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▓",
+        "name": "Dark Shade Symbol",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▢",
+        "name": "White Square with Rounded Corners",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▬",
+        "name": "Black Rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▮",
+        "name": "Black Vertical Rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "⊞",
+        "name": "Squared Plus Symbol",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "⊟",
+        "name": "Squared Minus",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "⊠",
+        "name": "Squared Times",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "⊡",
+        "name": "Squared Dot Operator",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "┴┈┈■┈┈┴",
+        "name": "big black rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "┬┈┈□┈┈┬",
+        "name": "small white rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▢▢▢",
+        "name": "three small Rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "╔. ■.═══════╗",
+        "name": "double lines square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "╚═══════.■ .╝",
+        "name": "double lines square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "╔════▣◎▣════╗",
+        "name": "upper outline rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "╚════▣◎▣════╝",
+        "name": "lower outline Rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▣▣▣▣▣▣▣▣▣▣▣▣",
+        "name": "multiple square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◆:*:◇:*:◆:*:◇:*:◆",
+        "name": "multiple sparkles",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▃▃▃▃▃▃▃",
+        "name": "big rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◢◤◢◤◢◤◢◤◢◤◢◤◢◤",
+        "name": "Black Lower Right Upper Left Triangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "█ ✪ █▓▓▓▓▓▓▓▓▓█ ✪ █",
+        "name": "dark shade",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▰▰▰▰▰▰▰▰▰▰▰▰",
+        "name": "parallelogram",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▐░░░░░░░░░░░░░▌",
+        "name": "faint shade",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "█▒▒▒▒▒█",
+        "name": "big square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◇◆◇◆◇◆◇◆◇",
+        "name": "multiple rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "■□■□■□■□■□■□■□■",
+        "name": "black and white square",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "✧ ▬▭▬ ▬▭▬✦✧✦ ▬▭▬ ▬▭▬ ✧",
+        "name": "small white rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "◈◈◈▣▣◈◈◈▣▣◈◈◈",
+        "name": "page end rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇▆ ▅ ▄ ▃ ▂",
+        "name": "progress bars",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄",
+        "name": "chess board",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+        "name": "big fat line",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "₪₪₪₪₪₪₪₪₪₪₪₪₪₪₪₪",
+        "name": "Aesthetic lines",
+        "category": "Cool Square s ◇◆◇◆"
+    },
+    {
+        "symbol": "⋆⋆⃟⊱✪⃝⃞⃝⊰⋆⃟⋆⋆⋆⃟⊱✪⃝⃞⃝⊰ ⋆⃟⋆⋆⋆⃟⊱✪⃝⃞⃝⊰",
+        "name": "big rectangle",
+        "category": "Cool Square s ◇◆◇◆"
+    }
+]

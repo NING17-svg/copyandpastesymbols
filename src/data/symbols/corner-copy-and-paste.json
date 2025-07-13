@@ -1,0 +1,657 @@
+[
+    {
+        "symbol": "﹄",
+        "name": "Presentation Form for Vertical Right White Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "﹃",
+        "name": "Presentation Form for Vertical Left White Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "﹂",
+        "name": "Presentation Form for Vertical Right Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "﹁",
+        "name": "Presentation Form for Vertical Left Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┕",
+        "name": "Box Drawings Up Light and Right Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┓",
+        "name": "Box Drawings Heavy Down and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "└",
+        "name": "Box Drawings Light Up and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┐",
+        "name": "Box Drawings Light Down and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┖",
+        "name": "Box Drawings Up Heavy and Right Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┒",
+        "name": "Box Drawings Down Heavy and Left Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┗",
+        "name": "Box Drawings Heavy Up and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┑",
+        "name": "Box Drawings Down Light and Left Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┍",
+        "name": "Box Drawings Down Light and Right Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┙",
+        "name": "Box Drawings Up Light and Left Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┏",
+        "name": "Box Drawings Heavy Down and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┛",
+        "name": "Box Drawings Heavy Up and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┎",
+        "name": "Box Drawings Down Heavy and Right Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┚",
+        "name": "Box Drawings Up Heavy and Left Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┌",
+        "name": "Box Drawings Light Down and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┘",
+        "name": "Box Drawings Light Up and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "「",
+        "name": "Left Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "」",
+        "name": "Right Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "『",
+        "name": "Left White Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "』",
+        "name": "Right White Corner Bracket",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "˩",
+        "name": "Modifier Letter Extra-Low Tone Bar",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "˥",
+        "name": "Modifier Letter Extra-High Tone Bar",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "├",
+        "name": "Box Drawings Light Vertical and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┝",
+        "name": "Box Drawings Vertical Light and Right Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┞",
+        "name": "Box Drawings Up Heavy and Right Down Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┟",
+        "name": "Box Drawings Down Heavy and Right Up Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┠",
+        "name": "Box Drawings Vertical Heavy and Right Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┡",
+        "name": "Box Drawings Down Light and Right Up Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┢",
+        "name": "Box Drawings Up Light and Right Down Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┣",
+        "name": "Box Drawings Heavy Vertical and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┤",
+        "name": "Box Drawings Light Vertical and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┥",
+        "name": "Box Drawings Vertical Light and Left Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┦",
+        "name": "Box Drawings Up Heavy and Left Down Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┧",
+        "name": "Box Drawings Down Heavy and Left Up Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┨",
+        "name": "Box Drawings Vertical Heavy and Left Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┩",
+        "name": "Box Drawings Down Light and Left Up Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┪",
+        "name": "Box Drawings Up Light and Left Down Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┫",
+        "name": "Box Drawings Heavy Vertical and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┬",
+        "name": "Box Drawings Light Down and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┭",
+        "name": "Box Drawings Left Heavy and Right Down Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┮",
+        "name": "Box Drawings Right Heavy and Left Down Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┯",
+        "name": "Box Drawings Down Light and Horizontal Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┰",
+        "name": "Box Drawings Down Heavy and Horizontal Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┱",
+        "name": "Box Drawings Right Light and Left Down Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┲",
+        "name": "Box Drawings Left Light and Right Down Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┳",
+        "name": "Box Drawings Heavy Down and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┴",
+        "name": "Box Drawings Light Up and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┵",
+        "name": "Box Drawings Left Heavy and Right Up Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┶",
+        "name": "Box Drawings Right Heavy and Left Up Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┷",
+        "name": "Box Drawings Up Light and Horizontal Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┸",
+        "name": "Box Drawings Up Heavy and Horizontal Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┹",
+        "name": "Box Drawings Right Light and Left Up Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┺",
+        "name": "Box Drawings Left Light and Right Up Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┻",
+        "name": "Box Drawings Heavy Up and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┼",
+        "name": "Box Drawings Light Vertical and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┽",
+        "name": "Box Drawings Left Heavy and Right Vertical Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┾",
+        "name": "Box Drawings Right Heavy and Left Vertical Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "┿",
+        "name": "Box Drawings Vertical Light and Horizontal Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╀",
+        "name": "Box Drawings Up Heavy and Down Horizontal Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╁",
+        "name": "Box Drawings Down Heavy and Up Horizontal Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╂",
+        "name": "Box Drawings Vertical Heavy and Horizontal Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╃",
+        "name": "Box Drawings Left Up Heavy and Right Down Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╄",
+        "name": "Box Drawings Right Up Heavy and Left Down Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╅",
+        "name": "Box Drawings Left Down Heavy and Right Up Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╆",
+        "name": "Box Drawings Right Down Heavy and Left Up Light",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╇",
+        "name": "Box Drawings Down Light and Up Horizontal Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╈",
+        "name": "Box Drawings Up Light and Down Horizontal Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╉",
+        "name": "Box Drawings Right Light and Left Vertical Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╊",
+        "name": "Box Drawings Left Light and Right Vertical Heavy",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╋",
+        "name": "Box Drawings Heavy Vertical and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╒",
+        "name": "Box Drawings Down Single and Right Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╕",
+        "name": "Box Drawings Down Single and Left Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╓",
+        "name": "Box Drawings Down Double and Right Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╖",
+        "name": "Box Drawings Down Double and Left Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╔",
+        "name": "Box Drawings Double Down and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╗",
+        "name": "Box Drawings Double Down and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╘",
+        "name": "Box Drawings Up Single and Right Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╛",
+        "name": "Box Drawings Up Single and Left Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╙",
+        "name": "Box Drawings Up Double and Right Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╜",
+        "name": "Box Drawings Up Double and Left Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╚",
+        "name": "Box Drawings Double Up and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╝",
+        "name": "Box Drawings Double Up and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╞",
+        "name": "Box Drawings Vertical Single and Right Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╡",
+        "name": "Box Drawings Vertical Single and Left Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╟",
+        "name": "Box Drawings Vertical Double and Right Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╢",
+        "name": "Box Drawings Vertical Double and Left Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╠",
+        "name": "Box Drawings Double Vertical and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╣",
+        "name": "Box Drawings Double Vertical and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╥",
+        "name": "Box Drawings Down Double and Horizontal Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╨",
+        "name": "Box Drawings Up Double and Horizontal Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╧",
+        "name": "Box Drawings Up Single and Horizontal Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╤",
+        "name": "Box Drawings Down Single and Horizontal Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╦",
+        "name": "Box Drawings Double Down and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╩",
+        "name": "Box Drawings Double Up and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╪",
+        "name": "Box Drawings Vertical Single and Horizontal Double",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╫",
+        "name": "Box Drawings Vertical Double and Horizontal Single",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╬",
+        "name": "Box Drawings Double Vertical and Horizontal",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "〒",
+        "name": "Postal Mark",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊢",
+        "name": "Right Tack",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊣",
+        "name": "Left Tack",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊤",
+        "name": "Down Tack",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊥",
+        "name": "Up Tack",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╭",
+        "name": "Box Drawings Light Arc Down and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╮",
+        "name": "Box Drawings Light Arc Down and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╯",
+        "name": "Box Drawings Light Arc Up and Left",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "╰",
+        "name": "Box Drawings Light Arc Up and Right",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊦",
+        "name": "Assertion",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊧",
+        "name": "Models",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊨",
+        "name": "True",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊩",
+        "name": "Forces",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊪",
+        "name": "Triple Vertical Bar Right Turnstile",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊫",
+        "name": "Double Vertical Bar Double Right Turnstile",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊬",
+        "name": "Does Not Prove",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊭",
+        "name": "Not True",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊮",
+        "name": "Does Not Force",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊯",
+        "name": "Negated Double Vertical Bar Double Right Turnstile",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⊺",
+        "name": "Intercalate",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "〦",
+        "name": "Hangzhou Numeral Six",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "〧",
+        "name": "Hangzhou Numeral Seven",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "〨",
+        "name": "Hangzhou Numeral Eight",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "˦",
+        "name": "Modifier Letter High Tone Bar",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "˧",
+        "name": "Modifier Letter Mid Tone Bar",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "˨",
+        "name": "Modifier Letter Low Tone Bar",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⑁",
+        "name": "Ocr Chair",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⑂",
+        "name": "Ocr Fork",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "⑃",
+        "name": "Ocr Inverted Fork",
+        "category": "Corner  Copy and Paste"
+    },
+    {
+        "symbol": "∟",
+        "name": "Right Angle",
+        "category": "Corner  Copy and Paste"
+    }
+]

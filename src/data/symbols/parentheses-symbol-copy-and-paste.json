@@ -1,0 +1,547 @@
+[
+    {
+        "symbol": "﹛",
+        "name": "Bracket small left curly bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹜",
+        "name": "Bracket small right curly bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹤",
+        "name": "Bracket small less than sign",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹥",
+        "name": "Bracket small greater than sign",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "{",
+        "name": "Bracket large left curly bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "}",
+        "name": "Bracket large right curly bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "<",
+        "name": "Bracket large less than sign",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": ">",
+        "name": "Bracket large greater than sign",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〈",
+        "name": "Bracket Left Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〉",
+        "name": "Bracket Right Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "《",
+        "name": "Bracket Left Double Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "》",
+        "name": "Bracket Right Double Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "「",
+        "name": "Bracket Left Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "」",
+        "name": "Bracket Right Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "『",
+        "name": "Bracket Left White Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "』",
+        "name": "Bracket Right White Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "【",
+        "name": "Bracket Left Black Lenticular Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "】",
+        "name": "Bracket Right Black Lenticular Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〔",
+        "name": "Bracket Left Tortoise Shell Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〕",
+        "name": "Bracket Right Tortoise Shell Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〖",
+        "name": "Bracket Left White Lenticular Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〗",
+        "name": "Bracket Right White Lenticular Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〘",
+        "name": "Bracket Left White Tortoise Shell Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〙",
+        "name": "Bracket Right White Tortoise Shell Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〚",
+        "name": "Bracket Left White Square Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〛",
+        "name": "Bracket Right White Square Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︵",
+        "name": "Bracket Vertical Left Parentheses",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︶",
+        "name": "Bracket Vertical Right Parentheses",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︷",
+        "name": "Bracket Vertical Left Curly Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︸",
+        "name": "Bracket Vertical Right Curly Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︹",
+        "name": "Bracket Vertical Left Tortoise Shell Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︺",
+        "name": "Bracket Vertical Right Tortoise Shell Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︻",
+        "name": "Bracket Vertical Left Black Lenticular Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︼",
+        "name": "Bracket Vertical Right Black Lenticular Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︽",
+        "name": "Bracket Vertical Left Double Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︾",
+        "name": "Bracket Vertical Right Double Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︿",
+        "name": "Bracket Vertical Left Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹀",
+        "name": "Bracket Vertical Right Angle Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "（",
+        "name": "Bracket left Parentheses sign",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "）",
+        "name": "Bracket right Parentheses sign",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹉",
+        "name": "Bracket Dashed Overline",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹊",
+        "name": "Bracket Centreline Overline",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹋",
+        "name": "Bracket Wavy Overline",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹌",
+        "name": "Bracket Double Wavy Overline",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹍",
+        "name": "Bracket Dashed Low Line",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹎",
+        "name": "Bracket Centreline Low Line",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹏",
+        "name": "Bracket Wavy Low Line",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "、",
+        "name": "Bracket Ideographic Comma",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "。",
+        "name": "Bracket Ideographic Full Stop",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〃",
+        "name": "Bracket Ditto Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〄",
+        "name": "Bracket Japanese Industrial Standard",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "々",
+        "name": "Bracket Ideographic Iteration Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〆",
+        "name": "Bracket Ideographic Closing Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〇",
+        "name": "Bracket Ideographic Number Zero",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〒",
+        "name": "Bracket Postal Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〓",
+        "name": "Bracket Geta Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〜",
+        "name": "Bracket Wave Dash",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〝",
+        "name": "Bracket Reversed Double Prime Quotation Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〞",
+        "name": "Bracket Double Prime Quotation Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〟",
+        "name": "Bracket Low Double Prime Quotation Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〠",
+        "name": "Bracket Postal Mark Face",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〡",
+        "name": "Bracket Hangzhou Numeral One",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〢",
+        "name": "Bracket Hangzhou Numeral Two",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〣",
+        "name": "Bracket Hangzhou Numeral Three",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〤",
+        "name": "Bracket Hangzhou Numeral Four",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〥",
+        "name": "Bracket Hangzhou Numeral Five",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〦",
+        "name": "Bracket Hangzhou Numeral Six",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〧",
+        "name": "Bracket Hangzhou Numeral Seven",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〨",
+        "name": "Bracket Hangzhou Numeral Eight",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〩",
+        "name": "Bracket Hangzhou Numeral Nine",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〪",
+        "name": "Bracket Ideographic Level Tone Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〫",
+        "name": "Bracket Ideographic Rising Tone Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〬",
+        "name": "Bracket Ideographic Departing Tone Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〭",
+        "name": "Bracket Ideographic Entering Tone Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〮",
+        "name": "Bracket Hangul Single Dot Tone Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〯",
+        "name": "Bracket Hangul Double Dot Tone Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〰",
+        "name": "Bracket Wavy Dash",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〱",
+        "name": "Bracket Vertical Kana Repeat Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〲",
+        "name": "Bracket Vertical Kana Repeat With Voiced Sound Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〳",
+        "name": "Bracket Vertical Kana Repeat Mark Upper Half",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〴",
+        "name": "Bracket Vertical Kana Repeat With Voiced Sound Mark Upper Half",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〵",
+        "name": "Bracket Vertical Kana Repeat Mark Lower Half",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〶",
+        "name": "Bracket Circled Postal Mark",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "〷",
+        "name": "Bracket Ideographic Telegraph Line Feed Separator",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︰",
+        "name": "Bracket Vertical Two Dot Leader",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︱",
+        "name": "Bracket Vertical Em Dash",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︲",
+        "name": "Bracket Vertical En Dash",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︳",
+        "name": "Bracket Vertical Low Line",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "︴",
+        "name": "Bracket Vertical Wavy Low Line",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹁",
+        "name": "Bracket Vertical Left Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹂",
+        "name": "Bracket Vertical Right Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹃",
+        "name": "Bracket Vertical Left White Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "﹄",
+        "name": "Bracket Vertical Right White Corner Bracket",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "˥",
+        "name": "Bracket Modifier Letter Extra High Tone Bar",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "˦",
+        "name": "Bracket Modifier Letter High Tone Bar",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "˧",
+        "name": "Bracket Modifier Letter Mid Tone Bar",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "˨",
+        "name": "Bracket Modifier Letter Low Tone Bar",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "˩",
+        "name": "Bracket Modifier Letter Extra Low Tone Bar",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑀",
+        "name": "Bracket Ocr Hook",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑁",
+        "name": "Bracket Ocr Chair",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑂",
+        "name": "Bracket Ocr Fork",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑃",
+        "name": "Bracket Ocr Inverted Fork",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑄",
+        "name": "Bracket Ocr Belt Buckle",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑅",
+        "name": "Bracket Ocr Bow Tie",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑆",
+        "name": "Bracket Ocr Branch Bank Identification",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑇",
+        "name": "Bracket Ocr Amount Of Check",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑈",
+        "name": "Bracket Ocr Dash",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑉",
+        "name": "Bracket Ocr Customer Account Number",
+        "category": "Parentheses symbol Copy and Paste"
+    },
+    {
+        "symbol": "⑊",
+        "name": "Bracket Ocr Double Backslash",
+        "category": "Parentheses symbol Copy and Paste"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "symbol": "✓",
+        "name": "Check mark",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✔",
+        "name": "Heavy Check mark",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "√",
+        "name": "Tick symbol Check mark",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "☑",
+        "name": "Ballot Box with Check",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "☒",
+        "name": "Ballot Box with X",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "☐",
+        "name": "Ballot Box",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✔️",
+        "name": "Check Mark Emoji",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✅",
+        "name": "Check Mark Button Emoji",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "❎",
+        "name": "Cancel emoji no emoji cross emoji",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "❌",
+        "name": "Cross Mark Emoji",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✕",
+        "name": "Cancel symbol no symbol cross",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✗",
+        "name": "Ballot X",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✘",
+        "name": "Heavy Ballot X",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✖",
+        "name": "Cross symbol",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "𐩃",
+        "name": "Kharoshthi Digit Four",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "𝜒",
+        "name": "Mathematical Italic Small Chi",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "𝝌",
+        "name": "Mathematical Bold Italic Small Chi",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "〥",
+        "name": "Hangzhou Numeral Five",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "ꎫ",
+        "name": "Yi Syllable Shat",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "⋉",
+        "name": "Left Normal Factor Semidirect Product",
+        "category": "Check mark"
+    },
+    {
+        "symbol": "✇",
+        "name": "Hundred Points Emoji",
+        "category": "Check mark"
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "symbol": "⚠",
+        "name": "Warning",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "⚠️",
+        "name": "Warning",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "☢",
+        "name": "Radioactive hazard",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "☢️",
+        "name": "Radioactive",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "☣",
+        "name": "Biohazard",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "☣️",
+        "name": "Biohazard sign",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🚸",
+        "name": "Children crossing",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🚫",
+        "name": "Prohibited",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🔞",
+        "name": "No one under 18",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "📵",
+        "name": "No mobile phones",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🚳",
+        "name": "No bicycles",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🚭",
+        "name": "No smoking",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🚯",
+        "name": "No littering",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🚱",
+        "name": "Non-portable water",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "🚷",
+        "name": "No pedestrians",
+        "category": "Warning  Copy and Paste"
+    },
+    {
+        "symbol": "⛔",
+        "name": "No entry",
+        "category": "Warning  Copy and Paste"
+    }
+]

@@ -1,0 +1,1317 @@
+[
+    {
+        "symbol": "『",
+        "name": "Left White Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "』",
+        "name": "Right White Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "「",
+        "name": "Vertical Left Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "」",
+        "name": "Vertical Right Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "【",
+        "name": "Left Black Lenticular Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "】",
+        "name": "Right Black Lenticular Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〔",
+        "name": "Left Tortoise Shell Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〕",
+        "name": "Right Tortoise Shell Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︵",
+        "name": "Vertical Left Parenthesis",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︶",
+        "name": "Vertical Right Parenthesis",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︷",
+        "name": "Vertical Left Curly Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︸",
+        "name": "Vertical Right Curly Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︹",
+        "name": "Vertical Left Tortoise Shell Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︺",
+        "name": "Vertical Right Tortoise Shell Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︻",
+        "name": "Vertical Left Black Lenticular Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︼",
+        "name": "Vertical Right Black Lenticular Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︽",
+        "name": "Vertical Left Double Angle Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︾",
+        "name": "Vertical Right Double Angle Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︿",
+        "name": "Vertical Left Angle Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹀",
+        "name": "Vertical Right Angle Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹁",
+        "name": "Vertical Left Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹂",
+        "name": "Vertical Right Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹃",
+        "name": "Vertical Left White Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹄",
+        "name": "Vertical Right White Corner Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "（",
+        "name": "small left parenthesis",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "）",
+        "name": "small right parenthesis",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "＜",
+        "name": "small less than sign",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "＞",
+        "name": "small greater than sign",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "｛",
+        "name": "large left curly bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "｝",
+        "name": "large right curly bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〖",
+        "name": "Left White Lenticular Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〗",
+        "name": "Right White Lenticular Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〘",
+        "name": "Left White Tortoise Shell Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〙",
+        "name": "Right White Tortoise Shell Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〚",
+        "name": "Left White Square Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〛",
+        "name": "Right White Square Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "«",
+        "name": "Double small less than sign Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "»",
+        "name": "Double small greater than sign Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "《",
+        "name": "Left Double Angle Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "》",
+        "name": "Right Double Angle Bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "『••✎••』",
+        "name": "double corner bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︻⋆︻⋆︻⋆︻⋆︻",
+        "name": "black Lenticular bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "︼⋆︼⋆︼⋆︼⋆︼",
+        "name": "black star Lenticular bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┍━━━━━»•» 🌺«•«━┑",
+        "name": "bracket with star",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┕━»•» 🌺«•«━━━━━┙",
+        "name": "flower with arrow",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⌢⌢⌢⌢⌢⌢",
+        "name": "multiple bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⌣⌣⌣⌣⌣⌣",
+        "name": "multiple bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┈ ⋞ 〈 text 〉 ⋟ ┈",
+        "name": "fancy text",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⚛》》》◆《《《⚛",
+        "name": "double bracket with flower",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "--┈┈∘┈˃̶༒˂̶┈∘┈┈ - -",
+        "name": "dashes line with arrow",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "》* 。• ˚ ˚˛ * 。° 。 •˚《",
+        "name": "star bracket within bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "≪ °❈° ≫",
+        "name": "big star",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "»»-------¤-------««",
+        "name": "small double bracket",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┕",
+        "name": "Box Drawings Up Light and Right Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┓",
+        "name": "Box Drawings Heavy Down and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "└",
+        "name": "Box Drawings Light Up and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┐",
+        "name": "Box Drawings Light Down and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┖",
+        "name": "Box Drawings Up Heavy and Right Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┒",
+        "name": "Box Drawings Down Heavy and Left Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┗",
+        "name": "Box Drawings Heavy Up and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┑",
+        "name": "Box Drawings Down Light and Left Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┍",
+        "name": "Box Drawings Down Light and Right Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┙",
+        "name": "Box Drawings Up Light and Left Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┏",
+        "name": "Box Drawings Heavy Down and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┛",
+        "name": "Box Drawings Heavy Up and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┎",
+        "name": "Box Drawings Down Heavy and Right Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┚",
+        "name": "Box Drawings Up Heavy and Left Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┌",
+        "name": "Box Drawings Light Down and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┘",
+        "name": "Box Drawings Light Up and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˩",
+        "name": "Modifier Letter Extra-Low Tone Bar",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˥",
+        "name": "Modifier Letter Extra-High Tone Bar",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "├",
+        "name": "Box Drawings Light Vertical and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┝",
+        "name": "Box Drawings Vertical Light and Right Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┞",
+        "name": "Box Drawings Up Heavy and Right Down Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┟",
+        "name": "Box Drawings Down Heavy and Right Up Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┠",
+        "name": "Box Drawings Vertical Heavy and Right Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┡",
+        "name": "Box Drawings Down Light and Right Up Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┢",
+        "name": "Box Drawings Up Light and Right Down Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┣",
+        "name": "Box Drawings Heavy Vertical and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┤",
+        "name": "Box Drawings Light Vertical and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┥",
+        "name": "Box Drawings Vertical Light and Left Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┦",
+        "name": "Box Drawings Up Heavy and Left Down Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┧",
+        "name": "Box Drawings Down Heavy and Left Up Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┨",
+        "name": "Box Drawings Vertical Heavy and Left Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┩",
+        "name": "Box Drawings Down Light and Left Up Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┪",
+        "name": "Box Drawings Up Light and Left Down Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┫",
+        "name": "Box Drawings Heavy Vertical and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┬",
+        "name": "Box Drawings Light Down and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┭",
+        "name": "Box Drawings Left Heavy and Right Down Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┮",
+        "name": "Box Drawings Right Heavy and Left Down Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┯",
+        "name": "Box Drawings Down Light and Horizontal Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┰",
+        "name": "Box Drawings Down Heavy and Horizontal Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┱",
+        "name": "Box Drawings Right Light and Left Down Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┲",
+        "name": "Box Drawings Left Light and Right Down Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┳",
+        "name": "Box Drawings Heavy Down and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┴",
+        "name": "Box Drawings Light Up and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┵",
+        "name": "Box Drawings Left Heavy and Right Up Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┶",
+        "name": "Box Drawings Right Heavy and Left Up Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┷",
+        "name": "Box Drawings Up Light and Horizontal Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┸",
+        "name": "Box Drawings Up Heavy and Horizontal Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┹",
+        "name": "Box Drawings Right Light and Left Up Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┺",
+        "name": "Box Drawings Left Light and Right Up Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┻",
+        "name": "Box Drawings Heavy Up and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┼",
+        "name": "Box Drawings Light Vertical and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┽",
+        "name": "Box Drawings Left Heavy and Right Vertical Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┾",
+        "name": "Box Drawings Right Heavy and Left Vertical Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "┿",
+        "name": "Box Drawings Vertical Light and Horizontal Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╀",
+        "name": "Box Drawings Up Heavy and Down Horizontal Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╁",
+        "name": "Box Drawings Down Heavy and Up Horizontal Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╂",
+        "name": "Box Drawings Vertical Heavy and Horizontal Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╃",
+        "name": "Box Drawings Left Up Heavy and Right Down Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╄",
+        "name": "Box Drawings Right Up Heavy and Left Down Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╅",
+        "name": "Box Drawings Left Down Heavy and Right Up Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╆",
+        "name": "Box Drawings Right Down Heavy and Left Up Light",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╇",
+        "name": "Box Drawings Down Light and Up Horizontal Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╈",
+        "name": "Box Drawings Up Light and Down Horizontal Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╉",
+        "name": "Box Drawings Right Light and Left Vertical Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╊",
+        "name": "Box Drawings Left Light and Right Vertical Heavy",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╋",
+        "name": "Box Drawings Heavy Vertical and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╒",
+        "name": "Box Drawings Down Single and Right Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╕",
+        "name": "Box Drawings Down Single and Left Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╓",
+        "name": "Box Drawings Down Double and Right Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╖",
+        "name": "Box Drawings Down Double and Left Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╔",
+        "name": "Box Drawings Double Down and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╗",
+        "name": "Box Drawings Double Down and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╘",
+        "name": "Box Drawings Up Single and Right Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╛",
+        "name": "Box Drawings Up Single and Left Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╙",
+        "name": "Box Drawings Up Double and Right Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╜",
+        "name": "Box Drawings Up Double and Left Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╚",
+        "name": "Box Drawings Double Up and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╝",
+        "name": "Box Drawings Double Up and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╞",
+        "name": "Box Drawings Vertical Single and Right Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╡",
+        "name": "Box Drawings Vertical Single and Left Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╟",
+        "name": "Box Drawings Vertical Double and Right Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╢",
+        "name": "Box Drawings Vertical Double and Left Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╠",
+        "name": "Box Drawings Double Vertical and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╣",
+        "name": "Box Drawings Double Vertical and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╥",
+        "name": "Box Drawings Down Double and Horizontal Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╨",
+        "name": "Box Drawings Up Double and Horizontal Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╧",
+        "name": "Box Drawings Up Single and Horizontal Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╤",
+        "name": "Box Drawings Down Single and Horizontal Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╦",
+        "name": "Box Drawings Double Down and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╩",
+        "name": "Box Drawings Double Up and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╪",
+        "name": "Box Drawings Vertical Single and Horizontal Double",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╫",
+        "name": "Box Drawings Vertical Double and Horizontal Single",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╬",
+        "name": "Box Drawings Double Vertical and Horizontal",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〒",
+        "name": "Postal Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊢",
+        "name": "Right Tack",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊣",
+        "name": "Left Tack",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊤",
+        "name": "Down Tack",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊥",
+        "name": "Up Tack",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╭",
+        "name": "Box Drawings Light Arc Down and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╮",
+        "name": "Box Drawings Light Arc Down and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╯",
+        "name": "Box Drawings Light Arc Up and Left",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "╰",
+        "name": "Box Drawings Light Arc Up and Right",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊦",
+        "name": "Assertion",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊧",
+        "name": "Models",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊨",
+        "name": "True",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊩",
+        "name": "Forces",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊪",
+        "name": "Triple Vertical Bar Right Turnstile",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊫",
+        "name": "Double Vertical Bar Double Right Turnstile",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊬",
+        "name": "Does Not Prove",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊭",
+        "name": "Not True",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊮",
+        "name": "Does Not Force",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊯",
+        "name": "Negated Double Vertical Bar Double Right Turnstile",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⊺",
+        "name": "Intercalate",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〦",
+        "name": "Hangzhou Numeral Six",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〧",
+        "name": "Hangzhou Numeral Seven",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〨",
+        "name": "Hangzhou Numeral Eight",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˦",
+        "name": "Modifier Letter High Tone Bar",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˧",
+        "name": "Modifier Letter Mid Tone Bar",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˨",
+        "name": "Modifier Letter Low Tone Bar",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⑁",
+        "name": "Ocr Chair",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⑂",
+        "name": "Ocr Fork",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⑃",
+        "name": "Ocr Inverted Fork",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "∟",
+        "name": "Right Angle",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‹",
+        "name": "Single Left Pointing Angle Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "›",
+        "name": "Single Right Pointing Angle Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "„",
+        "name": "Double Low 9 Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "“",
+        "name": "Left Double Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‟",
+        "name": "Double High Reversed 9 Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "”",
+        "name": "Right Double Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "’",
+        "name": "Right Single Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❝",
+        "name": "Heavy Double Turned Comma Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❞",
+        "name": "Heavy Double Comma Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❮",
+        "name": "Heavy Left Pointing Angle Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❯",
+        "name": "Heavy Right Pointing Angle Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "⹂",
+        "name": "Double Low-Reversed 9 Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〝",
+        "name": "Reversed Double Prime Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〞",
+        "name": "Double Prime Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "〟",
+        "name": "Low Double Prime Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "＂",
+        "name": "Fullwidth Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‚",
+        "name": "Single Low 9 Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‘",
+        "name": "Left Single Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‛",
+        "name": "Single High Reversed 9 Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❛",
+        "name": "Heavy Single Turned Comma Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❜",
+        "name": "Heavy Single Comma Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❟",
+        "name": "Heavy Low Single Comma Quotation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "·",
+        "name": "MIDDLE DOT",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‑",
+        "name": "Non breaking hyphen",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‒",
+        "name": "Punctuation mark dash",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "―",
+        "name": "Hyphen dash",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‗",
+        "name": "Double Low Line",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "•",
+        "name": "Bullet dark circle black circle dot full stop",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‣",
+        "name": "Triangular bullet",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "․",
+        "name": "Circle dot full stop",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‥",
+        "name": "Two dot leader",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "…",
+        "name": "Three dot leader",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‧",
+        "name": "Hyphenation Point",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "′",
+        "name": "Single Prime",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "″",
+        "name": "Double Prime",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‴",
+        "name": "Triple Prime",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "‷",
+        "name": "Reversed Triple Prime",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ʾ",
+        "name": "Modifier Letter Right Half Ring",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ʿ",
+        "name": "Modifier Letter Left Half Ring",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˀ",
+        "name": "Modifier Letter Glottal Stop",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˁ",
+        "name": "Modifier Letter Reversed Glottal Stop",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˄",
+        "name": "Modifier letter up arrowhead",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˅",
+        "name": "Modifier letter down arrowhead",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˆ",
+        "name": "Modifier Letter Circumflex Accent",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˇ",
+        "name": "Modifier Letter Caron",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˈ",
+        "name": "Modifier Letter Vertical Line",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˉ",
+        "name": "Modifier letter macron",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˊ",
+        "name": "Modifier Letter Acute Accent",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˋ",
+        "name": "Modifier letter grave accent",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ː",
+        "name": "Modifier Letter Triangular Colon",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˑ",
+        "name": "Modifier Letter Half Triangular Colon",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˒",
+        "name": "Modifier Letter Centred Right Half Ring",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˓",
+        "name": "Modifier Letter Centred Left Half Ring",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˔",
+        "name": "Modifier Letter Up Tack",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˕",
+        "name": "Modifier Letter down Tack",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˖",
+        "name": "Modifier Letter Plus Sign",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˗",
+        "name": "Modifier Letter minus Sign",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˘",
+        "name": "Breve",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˙",
+        "name": "Dot Above",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˚",
+        "name": "Ring Above",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˛",
+        "name": "Ogonek",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˜",
+        "name": "Small Tilde",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "˝",
+        "name": "Double Acute Accent",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˠ",
+        "name": "Modifier Letter Small Gamma",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "ˡ",
+        "name": "Modifier Letter Small L",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "～",
+        "name": "Fullwidth Tilde",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "¿",
+        "name": "Inverted Question Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹒",
+        "name": "Small Full Stop",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹔",
+        "name": "Small Semicolon",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "﹕",
+        "name": "Small Colon",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "！",
+        "name": "Fullwidth Exclamation Mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "＃",
+        "name": "Hash",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "％",
+        "name": "Percent Sign",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "＆",
+        "name": "Fullwidth Ampersand",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "＊",
+        "name": "Fullwidth Asterisk",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "，",
+        "name": "Fullwidth Comma",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "．",
+        "name": "Fullstop",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "：",
+        "name": "Colon",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "；",
+        "name": "Semicolon",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "？",
+        "name": "Question mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "＠",
+        "name": "Commercial at",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "、",
+        "name": "Ideographic Comma",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "。",
+        "name": "Ideographic Full Stop",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "≈",
+        "name": "Almost Equal To",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❗",
+        "name": "Punctuation Symbol Exclamation Mark emoji",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❓",
+        "name": "Punctuation Symbol question mark",
+        "category": "brackets_punctuation"
+    },
+    {
+        "symbol": "❌",
+        "name": "Punctuation Symbol cancel cross no",
+        "category": "brackets_punctuation"
+    }
+]

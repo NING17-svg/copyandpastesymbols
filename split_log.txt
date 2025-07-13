@@ -1,0 +1,143 @@
+2025-07-13 13:59:29,622 - INFO - 脚本开始执行...
+2025-07-13 13:59:29,623 - INFO - 正在读取源文件: public\data\scraped_symbols.json
+2025-07-13 13:59:29,626 - ERROR - 错误: 源文件JSON格式无效: public\data\scraped_symbols.json
+2025-07-13 14:00:28,148 - INFO - 脚本开始执行...
+2025-07-13 14:00:28,148 - INFO - 正在读取源文件: public\data\scraped_symbols.json
+2025-07-13 14:00:28,155 - ERROR - 错误: 修复后JSON格式依然无效: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-07-13 14:00:28,155 - ERROR - 解析失败位置附近的内容: ...﻿[
+  {
+    "symbol": "✖",
+    "name": "",
+    "category": "decorations",
+    "popularity": 100
+  },
+  {
+    "symbol": "✽",
+    "name": "",
+    "catego...
+2025-07-13 14:00:57,845 - INFO - 脚本开始执行...
+2025-07-13 14:00:57,845 - INFO - 正在读取源文件: public\data\scraped_symbols.json
+2025-07-13 14:00:57,850 - ERROR - 错误: 修复后JSON格式依然无效: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-07-13 14:00:57,850 - ERROR - 解析失败位置附近的内容: ...﻿[
+  {
+    "symbol": "✖",
+    "name": "",
+    "category": "decorations",
+    "popularity": 100
+  },
+  {
+    "symbol": "✽",
+    "name": "",
+    "catego...
+2025-07-13 14:02:11,719 - INFO - 脚本开始执行...
+2025-07-13 14:02:11,719 - INFO - 正在读取源文件: src\data\scraped_symbols.json
+2025-07-13 14:02:11,724 - ERROR - 错误: 修复后JSON格式依然无效: Unexpected UTF-8 BOM (decode using utf-8-sig): line 1 column 1 (char 0)
+2025-07-13 14:02:11,724 - ERROR - 解析失败位置附近的内容: ...﻿[
+  {
+    "symbol": "✖",
+    "name": "",
+    "category": "decorations",
+    "popularity": 100
+  },
+  {
+    "symbol": "✽",
+    "name": "",
+    "catego...
+2025-07-13 14:02:56,673 - INFO - 脚本开始执行...
+2025-07-13 14:02:56,673 - INFO - 正在读取源文件: src\data\scraped_symbols.json
+2025-07-13 14:02:56,684 - INFO - 成功读取并修复了 7356 个符号。
+2025-07-13 14:02:56,685 - INFO - 正在按类别对符号进行分组...
+2025-07-13 14:02:56,686 - INFO - 共找到 8 个类别。
+2025-07-13 14:02:56,686 - INFO - 正在为类别 'decorations' (4323个符号) 创建文件: decorations.json
+2025-07-13 14:02:56,732 - INFO - 成功保存文件: src\data\symbols\decorations.json
+2025-07-13 14:02:56,732 - INFO - 正在为类别 'borders' (210个符号) 创建文件: borders.json
+2025-07-13 14:02:56,734 - INFO - 成功保存文件: src\data\symbols\borders.json
+2025-07-13 14:02:56,734 - INFO - 正在为类别 'fancytext' (666个符号) 创建文件: fancytext.json
+2025-07-13 14:02:56,743 - INFO - 成功保存文件: src\data\symbols\fancytext.json
+2025-07-13 14:02:56,743 - INFO - 正在为类别 'stars' (364个符号) 创建文件: stars.json
+2025-07-13 14:02:56,747 - INFO - 成功保存文件: src\data\symbols\stars.json
+2025-07-13 14:02:56,747 - INFO - 正在为类别 'emoticons' (1751个符号) 创建文件: emoticons.json
+2025-07-13 14:02:56,766 - INFO - 成功保存文件: src\data\symbols\emoticons.json
+2025-07-13 14:02:56,766 - INFO - 正在为类别 'hearts' (31个符号) 创建文件: hearts.json
+2025-07-13 14:02:56,767 - INFO - 成功保存文件: src\data\symbols\hearts.json
+2025-07-13 14:02:56,767 - INFO - 正在为类别 'astronomy' (7个符号) 创建文件: astronomy.json
+2025-07-13 14:02:56,768 - INFO - 成功保存文件: src\data\symbols\astronomy.json
+2025-07-13 14:02:56,768 - INFO - 正在为类别 'nature' (4个符号) 创建文件: nature.json
+2025-07-13 14:02:56,768 - INFO - 成功保存文件: src\data\symbols\nature.json
+2025-07-13 14:02:56,768 - INFO - 脚本执行完毕！所有文件已成功生成。
+2025-07-13 14:24:28,884 - INFO - 成功处理 131 个文件。开始合并和保存...
+2025-07-13 14:24:28,884 - INFO - 正在处理分类 'stars_decor'，包含 308 个符号...
+2025-07-13 14:24:28,884 - INFO - 去重后，'stars_decor' 分类剩余 296 个符号。
+2025-07-13 14:24:28,884 - INFO - 成功保存文件: ./src/data\stars_decor.json
+2025-07-13 14:24:28,884 - INFO - 正在处理分类 'emoticons'，包含 1924 个符号...
+2025-07-13 14:24:28,884 - INFO - 去重后，'emoticons' 分类剩余 1731 个符号。
+2025-07-13 14:24:28,904 - INFO - 成功保存文件: ./src/data\emoticons.json
+2025-07-13 14:24:28,904 - INFO - 正在处理分类 'arrows'，包含 425 个符号...
+2025-07-13 14:24:28,904 - INFO - 去重后，'arrows' 分类剩余 335 个符号。
+2025-07-13 14:24:28,907 - INFO - 成功保存文件: ./src/data\arrows.json
+2025-07-13 14:24:28,907 - INFO - 正在处理分类 'letters_fonts'，包含 583 个符号...
+2025-07-13 14:24:28,907 - INFO - 去重后，'letters_fonts' 分类剩余 577 个符号。
+2025-07-13 14:24:28,913 - INFO - 成功保存文件: ./src/data\letters_fonts.json
+2025-07-13 14:24:28,913 - INFO - 正在处理分类 'themed'，包含 4555 个符号...
+2025-07-13 14:24:28,914 - INFO - 去重后，'themed' 分类剩余 4086 个符号。
+2025-07-13 14:24:28,941 - INFO - 成功保存文件: ./src/data\themed.json
+2025-07-13 14:24:28,941 - INFO - 正在处理分类 'math_numbers'，包含 317 个符号...
+2025-07-13 14:24:28,941 - INFO - 去重后，'math_numbers' 分类剩余 283 个符号。
+2025-07-13 14:24:28,944 - INFO - 成功保存文件: ./src/data\math_numbers.json
+2025-07-13 14:24:28,944 - INFO - 正在处理分类 'language'，包含 124 个符号...
+2025-07-13 14:24:28,944 - INFO - 去重后，'language' 分类剩余 124 个符号。
+2025-07-13 14:24:28,945 - INFO - 成功保存文件: ./src/data\language.json
+2025-07-13 14:24:28,945 - INFO - 正在处理分类 'shapes_borders'，包含 729 个符号...
+2025-07-13 14:24:28,946 - INFO - 去重后，'shapes_borders' 分类剩余 637 个符号。
+2025-07-13 14:24:28,950 - INFO - 成功保存文件: ./src/data\shapes_borders.json
+2025-07-13 14:24:28,950 - INFO - 正在处理分类 'brackets_punctuation'，包含 362 个符号...
+2025-07-13 14:24:28,951 - INFO - 去重后，'brackets_punctuation' 分类剩余 263 个符号。
+2025-07-13 14:24:28,953 - INFO - 成功保存文件: ./src/data\brackets_punctuation.json
+2025-07-13 14:24:28,953 - INFO - 正在处理分类 'weather_nature'，包含 152 个符号...
+2025-07-13 14:24:28,953 - INFO - 去重后，'weather_nature' 分类剩余 116 个符号。
+2025-07-13 14:24:28,955 - INFO - 成功保存文件: ./src/data\weather_nature.json
+2025-07-13 14:24:28,955 - INFO - 正在处理分类 'hearts'，包含 112 个符号...
+2025-07-13 14:24:28,955 - INFO - 去重后，'hearts' 分类剩余 105 个符号。
+2025-07-13 14:24:28,957 - INFO - 成功保存文件: ./src/data\hearts.json
+2025-07-13 14:24:28,957 - INFO - 正在处理分类 'currency_units'，包含 49 个符号...
+2025-07-13 14:24:28,957 - INFO - 去重后，'currency_units' 分类剩余 49 个符号。
+2025-07-13 14:24:28,958 - INFO - 成功保存文件: ./src/data\currency_units.json
+2025-07-13 14:24:28,958 - INFO - 所有分类已成功合并和保存！
+2025-07-13 14:36:25,480 - INFO - 成功处理 131 个文件。开始合并和保存...
+2025-07-13 14:36:25,480 - INFO - 正在处理分类 'stars_decor'，包含 308 个符号...
+2025-07-13 14:36:25,480 - INFO - 去重后，'stars_decor' 分类剩余 296 个符号。
+2025-07-13 14:36:25,482 - INFO - 成功保存文件: ./src/data\stars_decor.json
+2025-07-13 14:36:25,482 - INFO - 正在处理分类 'emoticons'，包含 1924 个符号...
+2025-07-13 14:36:25,483 - INFO - 去重后，'emoticons' 分类剩余 1731 个符号。
+2025-07-13 14:36:25,490 - INFO - 成功保存文件: ./src/data\emoticons.json
+2025-07-13 14:36:25,490 - INFO - 正在处理分类 'arrows'，包含 425 个符号...
+2025-07-13 14:36:25,490 - INFO - 去重后，'arrows' 分类剩余 335 个符号。
+2025-07-13 14:36:25,493 - INFO - 成功保存文件: ./src/data\arrows.json
+2025-07-13 14:36:25,493 - INFO - 正在处理分类 'letters_fonts'，包含 583 个符号...
+2025-07-13 14:36:25,493 - INFO - 去重后，'letters_fonts' 分类剩余 577 个符号。
+2025-07-13 14:36:25,497 - INFO - 成功保存文件: ./src/data\letters_fonts.json
+2025-07-13 14:36:25,498 - INFO - 正在处理分类 'themed'，包含 4555 个符号...
+2025-07-13 14:36:25,498 - INFO - 去重后，'themed' 分类剩余 4086 个符号。
+2025-07-13 14:36:25,522 - INFO - 成功保存文件: ./src/data\themed.json
+2025-07-13 14:36:25,522 - INFO - 正在处理分类 'math_numbers'，包含 317 个符号...
+2025-07-13 14:36:25,522 - INFO - 去重后，'math_numbers' 分类剩余 283 个符号。
+2025-07-13 14:36:25,525 - INFO - 成功保存文件: ./src/data\math_numbers.json
+2025-07-13 14:36:25,525 - INFO - 正在处理分类 'language'，包含 124 个符号...
+2025-07-13 14:36:25,525 - INFO - 去重后，'language' 分类剩余 124 个符号。
+2025-07-13 14:36:25,525 - INFO - 成功保存文件: ./src/data\language.json
+2025-07-13 14:36:25,525 - INFO - 正在处理分类 'shapes_borders'，包含 729 个符号...
+2025-07-13 14:36:25,525 - INFO - 去重后，'shapes_borders' 分类剩余 637 个符号。
+2025-07-13 14:36:25,531 - INFO - 成功保存文件: ./src/data\shapes_borders.json
+2025-07-13 14:36:25,532 - INFO - 正在处理分类 'brackets_punctuation'，包含 362 个符号...
+2025-07-13 14:36:25,532 - INFO - 去重后，'brackets_punctuation' 分类剩余 263 个符号。
+2025-07-13 14:36:25,534 - INFO - 成功保存文件: ./src/data\brackets_punctuation.json
+2025-07-13 14:36:25,534 - INFO - 正在处理分类 'weather_nature'，包含 152 个符号...
+2025-07-13 14:36:25,534 - INFO - 去重后，'weather_nature' 分类剩余 116 个符号。
+2025-07-13 14:36:25,535 - INFO - 成功保存文件: ./src/data\weather_nature.json
+2025-07-13 14:36:25,536 - INFO - 正在处理分类 'hearts'，包含 112 个符号...
+2025-07-13 14:36:25,536 - INFO - 去重后，'hearts' 分类剩余 105 个符号。
+2025-07-13 14:36:25,536 - INFO - 成功保存文件: ./src/data\hearts.json
+2025-07-13 14:36:25,536 - INFO - 正在处理分类 'currency_units'，包含 49 个符号...
+2025-07-13 14:36:25,536 - INFO - 去重后，'currency_units' 分类剩余 49 个符号。
+2025-07-13 14:36:25,536 - INFO - 成功保存文件: ./src/data\currency_units.json
+2025-07-13 14:36:25,536 - INFO - 所有分类已成功合并和保存！

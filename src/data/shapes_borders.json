@@ -1,0 +1,3187 @@
+[
+    {
+        "symbol": "○",
+        "name": "White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◌",
+        "name": "Dotted Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☮",
+        "name": "Peace symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◍",
+        "name": "Circle with vertical fill",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "●",
+        "name": "Complete Black Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◐",
+        "name": "Circle with Left Half black white Side",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◑",
+        "name": "Circle with Right Half black white Side",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◒",
+        "name": "Circle with Lower Half black white Side",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◓",
+        "name": "Circle with Upper Half black white Side",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◔",
+        "name": "Circle with Upper Right Quadrant Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◕",
+        "name": "Circle with All But Upper Left Quadrant Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◖",
+        "name": "Left Half Black Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◗",
+        "name": "Right Half Black Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◙",
+        "name": "Inverse White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◚",
+        "name": "Upper Half Inverse White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◛",
+        "name": "Lower Half Inverse White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◠",
+        "name": "Upper Half Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◡",
+        "name": "Lower Half Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◯",
+        "name": "Large Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◴",
+        "name": "White Circle with Upper Left Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◵",
+        "name": "White Circle with Lower Left Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◶",
+        "name": "White Circle with Lower Right Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◷",
+        "name": "White Circle with Upper Right Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚆",
+        "name": "White Circle with Dot Right",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚇",
+        "name": "White Circle with Two Dots",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚈",
+        "name": "Black Circle with White Dot Right",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚉",
+        "name": "Black Circle with Two White Dots",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚪",
+        "name": "Medium White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚫",
+        "name": "Medium Black Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚬",
+        "name": "Medium Small White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✪",
+        "name": "Circled White Star",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❂",
+        "name": "Circled Open Centre Eight Pointed Star",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❍",
+        "name": "Shadowed White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⟟",
+        "name": "Up Tack with Circle Above",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦲",
+        "name": "Empty Set with Small Circle Above",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦵",
+        "name": "Circle with Horizontal Bar",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦶",
+        "name": "Circled Vertical Bar",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∅",
+        "name": "Empty set",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦷",
+        "name": "Circled Parallel",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦸",
+        "name": "Circled Reverse Solidus",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦹",
+        "name": "Circled Perpendicular",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦺",
+        "name": "Circle Divided By Horizontal Bar And Top Half Divided By Vertical Bar",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦻",
+        "name": "Circle with Superimposed X",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦾",
+        "name": "Circled White Bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⦿",
+        "name": "Circled Bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧂",
+        "name": "Circle with Small Circle To The Right",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧃",
+        "name": "Circle with Two Horizontal Strokes To The Right",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧇",
+        "name": "Squared Small Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧲",
+        "name": "Error barred White Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧳",
+        "name": "Error barred Black Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨀",
+        "name": "N-ary Circled Dot Operator",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨁",
+        "name": "N-ary Circled Plus Operator",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨂",
+        "name": "N-ary Circled Times Operator",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⫱",
+        "name": "Down Tack with Circle Below",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬤",
+        "name": "Black Large Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⭕",
+        "name": "Red Large Circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏ ┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└ ┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔ ╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚ ╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭┈┈┈┈╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰┈┈┈┈╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭─────╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰─────╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌──────┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└──────┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╒══════╕",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╘══════╛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══•●•══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══•●•══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❀° ┄───╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰───┄ °❀",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌── •✧• ──┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└── •✧• ──┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═.✾. ════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚════.✾. ═╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌── ⋆⋅☆⋅⋆ ──┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└── ⋆⋅☆⋅⋆ ──┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭──〔❨✧✧❩〕──╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰──〔❨✧✧❩〕──╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌─── ∘°❉°∘ ───┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└─── °∘❉∘° ───┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭─〔❨✧✧❩〕─╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰─〔❨✧✧❩〕─╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══《✧》══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══《✧》══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━✦❘༻༺❘✦━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━✦❘༻༺❘✦━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏ •◦இ•◦ ┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗ •◦இ•◦ ┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┍━☽【❖】☾━┑",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┕━☽【❖】☾━┙",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭ ─┉─ • ─┉─ ╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰ ─┉─¡! • !¡─┉─ ╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•---------•",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "《--¤--¤--》",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "..••°°°°••..",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "°°••....••°°",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌──❀*̥˚───❀*̥˚─┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└───❀*̥˚───❀*̥˚┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══ஓ๑♡๑ஓ══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══ஓ๑♡๑ஓ══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━━━༻❁༺━━━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━━━༻❁༺━━━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭━━━━━∙⋆⋅⋆∙━━━━━╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰━━━━━∙⋆⋅⋆∙━━━━━╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━━━━━━━━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━━━━━━━━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "『 °*• ❀ •*°』",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══════════════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══════════════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══❖═══════❖══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══❖═══════❖══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━━━❂❂━━━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━━━❂❂━━━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═══✿════════✿═══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═══✿════════✿═══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═══════☆♡☆═══════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═══════☆♡☆═══════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══════════════════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══════════════════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▰▱▰▱▰▱▰▱▰▱▰▱▰▱",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌─────━┿──┿━─────┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└─────━┿──┿━─────┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "-ˋˏ [] ˎˊ",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━°⌜ 赤い糸 ⌟°━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━°⌜ 赤い糸 ⌟°━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══ ❀•°❀°•❀ ══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══ ❀•°❀°•❀ ══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━•❃°•°❀°•°❃•━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━•❃°•°❀°•°❃•━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭── ⋅ ── ✩ ── ⋅ ──╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰── ⋅ ── ✩ ── ⋅ ──╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━✦❘༻༺❘✦━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━✦❘༻༺❘✦━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌──═━┈━═──┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└──═━┈━═──┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•╔════◄░░░░░░►════╗•",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•╚════◄░░░░░░►════╝•",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌────── ⋆⋅☆⋅⋆ ──────┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└────── ⋆⋅☆⋅⋆ ──────┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┌─────═━┈┈━═─────┐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "└─────═━┈┈━═─────┘",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╭── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╮",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╰── ⋅ ⋅ ── ✩ ── ⋅ ⋅ ──╯",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══ ≪ °❈° ≫ ══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══ ≪ °❈° ≫ ══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━•❃°•°❀°•°❃•━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━•❃°•°❀°•°❃•━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═*.·:·.✧ ✦ ✧.·:·.*═╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═*.·:·.✧ ✦ ✧.·:·.*═╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═✬✩══╡˚✧✬✧˚╞══✩✬══╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═✬✩══╡˚✧✬✧˚╞══✩✬══╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═════ °❀•°✮°•❀°═════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═════ °❀•°✮°•❀°═════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═════════ 🧡 ═════════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═════════ 🧡 ═════════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══════✮❁•°♛°•❁✮ ══════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══════✮❁•°❀°•❁✮══════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━━━•°•°•❈•°•°•━━━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━━━•°•°•❈•°•°•━━━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔══════ ❀•°❀°•❀ ══════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚══════ ❀•°❀°•❀ ══════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━━━•❅•°•❈•°•❅•━━━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━━━•❅•°•❈•°•❅•━━━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┏━━━━━•❃°•°•°•°❃•━━━━━┓",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┗━━━━━•❃°•°•°•°❃•━━━━━┛",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔════ ✿ ❀ ღღ ✿ ❀ ════╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚════ ❀ ✿ ღღ ❀ ✿ ════╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔═ ✰ ═ ✮ :star: ✮ ═ ✰ ═╗",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═ ✰ ═ ✮ :star: ✮ ═ ✰ ═╝",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "°。°。°。°。°。°。。°。°。°。°。°",
+        "name": "small and large circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "●○●○●○●○●",
+        "name": "black and white circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "●～●～●～●～",
+        "name": "wavey black circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "●・○・●・○・●",
+        "name": "circle within dots",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "■━■━■━■",
+        "name": "black rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⌒⌒⌒⌒⌒",
+        "name": "Upper half circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▣-▣-▣-▣-▣",
+        "name": "outlined circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "★○★○★○★",
+        "name": "circle between stars",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◇──◆──◇──◆",
+        "name": "small rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◈━◈━◈━◈━◈",
+        "name": "dashed rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◈◆◈◆◈◆◈◆◈",
+        "name": "rectangle multiple",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "━◦○◦━◦○◦━",
+        "name": "many circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✼ ҉ ҉ ✼",
+        "name": "sparkle circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✼ ҉ ✼ ҉ ✼",
+        "name": "star circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✧○ꊞ○ꊞ○ꊞ○ꊞ○✧",
+        "name": "shining circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◇●○◆○●◇●○◆○●◇",
+        "name": "sparkles between circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".・。.・゜✭・.",
+        "name": "wavey star",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∞ ₒ ˚ °𐐒",
+        "name": "infinity with circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "ₓ˚. ୭ ˚○◦˚.",
+        "name": "angel circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "*:..｡o○",
+        "name": "star and circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".・゜゜・",
+        "name": "wave dots",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "｡･ﾟﾟ･",
+        "name": "wavey dots",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∘°∘♡∘°∘",
+        "name": "heart and circles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•·.·´`·.·••",
+        "name": "black circle wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◦•●◉✿✿◉●•◦",
+        "name": "two big flowers",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "●∘◦❀◦∘●",
+        "name": "flower in middle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "● text ●",
+        "name": "circle text",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "○ text○",
+        "name": "white circle text",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "~●○°●○°●○~",
+        "name": "circle design",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•----------•",
+        "name": "dash between circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "━ ◦ ❖ ◦━",
+        "name": "page end circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "《--¤--¤--¤--》",
+        "name": "double bracket",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "──⇌••⇋──",
+        "name": "small dots",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "≪ ◦ ❖ ◦ ≫",
+        "name": "white circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "──●◎●──",
+        "name": "big black circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✩̣̣̣̣̣ͯ┄•͙✧⃝•͙┄✩ͯ•͙͙✧⃝•͙͙✩ͯ┄•͙✧⃝•͙┄✩̣̣̣̣̣ͯ",
+        "name": "big white circle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✦•······················•✦•······················•✦",
+        "name": "black sparkles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✦͙͙͙*͙*❥⃝∗⁎ʚb⁎∗❥⃝**͙✦͙͙͙",
+        "name": "heart bullets",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "*. * ·",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "——————————",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "__________________ ׂׂૢ་༘࿐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋆ ★",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "︶︶︶︶︶︶︶︶︶༉‧₊˚.",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ˚➶ ｡˚ ☁",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ┊ ┊. ➶ ˚",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ┊ ┊ ˚✧",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┆ ┆ ┆ ┆⋆",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┆ ┆ ┆જ ✾",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┆ ° ♡ • ➵ ✩ ◛ °",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊┊┊┊ ➶ ❁۪ ｡˚ ✧",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊┊┊✧ ⁺ ⁺ 　°",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊┊❁ཻུ۪۪♡ ͎. ｡˚ 　　°",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊┊.",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ┊",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ➶ ｡˚ 　　°",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ⋆ ┊ . ┊ ┊",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ┊⋆ ┊ .",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ┊ ⋆˚ ⁭",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✧. ┊⁭",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☁",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✎ (❁ᴗ͈ˬᴗ͈) ༉‧ ♡*.✧",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".˚₊‧༉︶︶︶︶︶︶︶︶︶༉‧₊˚.",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "˚ · • . ° .",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✧ ˚ 　· 　　 .",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "˚ ༘♡ ⋆｡˚ ꕥ",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⌣ ‿ ‿ ‿ ‿ ‿ ‿ ⌣",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┆彡",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❀",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "↶*ೃ✧˚. ❃ ↷ ˊ-",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•",
+        "name": "small black Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◦",
+        "name": "small white Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◘",
+        "name": "white circle on black square Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☄. *. ⋆",
+        "name": "comet Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•°. *࿐",
+        "name": "many Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "••●••",
+        "name": "multiple Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "═........═",
+        "name": "equal to sign Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "─┉┈◈◉◈┈┉",
+        "name": "square with Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".·:*¨༺༻¨*:·.",
+        "name": "star with Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊ ┊ ┊ ┊",
+        "name": "divider Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".·:*¨ ¨*:·.",
+        "name": "small Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•,¸,.·''·.,¸,•",
+        "name": "wave Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "..••°°°°••..°°••....••°°",
+        "name": "black and white Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "• • • • • ••",
+        "name": "seven Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "°:. *₊ ° .° .•",
+        "name": "weird Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "︑︒⚬∙︓·⠄",
+        "name": "fancy Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "»--•--«",
+        "name": "braket Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".⋅ ۵♡۵ ⋅.",
+        "name": "heart Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".・゜゜・ ・゜゜・．",
+        "name": "wavey Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "｡･ﾟﾟ･･ﾟﾟ･｡",
+        "name": "very small Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "*+:｡.｡｡.｡:+*",
+        "name": "plus sign Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "★・・・・・・★",
+        "name": "big star Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "°。°。°。°。°。。°。°。°。°。°",
+        "name": "page end Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "●～●～●～●～●",
+        "name": "black Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "ʰ͙ᵉ͙ˡ͙ˡ͙ᵒ͙",
+        "name": "hello text Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".·:*¨✘♚✘ ¨*:·.",
+        "name": "king symbol with Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".·:*¨¨*≈☆≈*¨¨*:·.",
+        "name": "white star Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ". . • ☆ . °.•°:. *₊° .☆",
+        "name": "star Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻჻",
+        "name": "Dotted line Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•·•·•·•·•·•·•·•·•·••",
+        "name": "small Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:･ﾟ★,｡･:*:･ﾟ☆ ｡･:*:",
+        "name": "black white star Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "●❍°•°•°○°•°•°❍●",
+        "name": "shadow Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "×•-•-•-•⟮ ◆ ⟯•-•-•-• ×",
+        "name": "dash with Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "°•°•°•°•°•°•°",
+        "name": "black white Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "·̇·̣̇̇·̣̣̇·̣̇̇·̇ •❣•୨୧┈┈┈୨୧•❣• ·̇·̣̇̇·̣̣̇·̣̇̇·̇",
+        "name": "heavy heart Aesthetic Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "□",
+        "name": "White Square Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "░",
+        "name": "Light Shade Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "■",
+        "name": "Black Square Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☒",
+        "name": "cross within square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☐",
+        "name": "white square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❒",
+        "name": "Upper Right Shadowed White Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▥",
+        "name": "Square with Vertical Fill",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▤",
+        "name": "Square with Horizontal Fill",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▦",
+        "name": "Square with Orthogonal Crosshatch Fill",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▧",
+        "name": "Square with Upper Left To Lower Right Fill",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▨",
+        "name": "Square with Upper Right To Lower Left Fill",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▩",
+        "name": "Square with Diagonal Crosshatch Fill",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◧",
+        "name": "Square with Left Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◨",
+        "name": "Square with Right Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◩",
+        "name": "Square with Lower Right Diagonal Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◪",
+        "name": "White Square with Rounded Corners",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◫",
+        "name": "White Square with Vertical Bisecting Line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▭",
+        "name": "White Rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▯",
+        "name": "White Vertical Rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⌧",
+        "name": "cross",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▒",
+        "name": "Dark Shade Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▓",
+        "name": "Dark Shade Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▢",
+        "name": "White Square with Rounded Corners",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▬",
+        "name": "Black Rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▮",
+        "name": "Black Vertical Rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⊞",
+        "name": "Squared Plus Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⊟",
+        "name": "Squared Minus",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⊠",
+        "name": "Squared Times",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⊡",
+        "name": "Squared Dot Operator",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┴┈┈■┈┈┴",
+        "name": "big black rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┬┈┈□┈┈┬",
+        "name": "small white rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▢▢▢",
+        "name": "three small Rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔. ■.═══════╗",
+        "name": "double lines square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚═══════.■ .╝",
+        "name": "double lines square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╔════▣◎▣════╗",
+        "name": "upper outline rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╚════▣◎▣════╝",
+        "name": "lower outline Rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▣▣▣▣▣▣▣▣▣▣▣▣",
+        "name": "multiple square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◆:*:◇:*:◆:*:◇:*:◆",
+        "name": "multiple sparkles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▃▃▃▃▃▃▃",
+        "name": "big rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◢◤◢◤◢◤◢◤◢◤◢◤◢◤",
+        "name": "Black Lower Right Upper Left Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "█ ✪ █▓▓▓▓▓▓▓▓▓█ ✪ █",
+        "name": "dark shade",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▰▰▰▰▰▰▰▰▰▰▰▰",
+        "name": "parallelogram",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▐░░░░░░░░░░░░░▌",
+        "name": "faint shade",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "█▒▒▒▒▒█",
+        "name": "big square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◇◆◇◆◇◆◇◆◇",
+        "name": "multiple rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "■□■□■□■□■□■□■□■",
+        "name": "black and white square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✧ ▬▭▬ ▬▭▬✦✧✦ ▬▭▬ ▬▭▬ ✧",
+        "name": "small white rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◈◈◈▣▣◈◈◈▣▣◈◈◈",
+        "name": "page end rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▂ ▃ ▄ ▅ ▆ ▇ █ █ ▇▆ ▅ ▄ ▃ ▂",
+        "name": "progress bars",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄",
+        "name": "big fat line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "₪₪₪₪₪₪₪₪₪₪₪₪₪₪₪₪",
+        "name": "Aesthetic lines",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋆⋆⃟⊱✪⃝⃞⃝⊰⋆⃟⋆⋆⋆⃟⊱✪⃝⃞⃝⊰ ⋆⃟⋆⋆⋆⃟⊱✪⃝⃞⃝⊰",
+        "name": "big rectangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▲",
+        "name": "Black Up-Pointing Triangle Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▼",
+        "name": "Black Down-Pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◄",
+        "name": "Black Left-Pointing Pointer",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "►",
+        "name": "Black Right-Pointing Pointer",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "△",
+        "name": "White Up-Pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▽",
+        "name": "White Down-Pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▷",
+        "name": "White Right-Pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◁",
+        "name": "White Left-Pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▵",
+        "name": "White Up-Pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▹",
+        "name": "White Right-Pointing Small Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▿",
+        "name": "White Down-Pointing Small Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◃",
+        "name": "White Left-Pointing Small Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▴",
+        "name": "Black Up-Pointing Small Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▸",
+        "name": "Black Right-Pointing Small Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▾",
+        "name": "Black Down-Pointing Small Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◂",
+        "name": "Black Left-Pointing Small Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▻",
+        "name": "White Right-Pointing Pointer",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◅",
+        "name": "White Left-Pointing Pointer",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◬",
+        "name": "White Up-Pointing Triangle with Dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◭",
+        "name": "Up-Pointing Triangle with Left Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◮",
+        "name": "Up-Pointing Triangle with Right Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◢",
+        "name": "Black Lower Right Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◣",
+        "name": "Black Lower Left Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◥",
+        "name": "Black Upper Right Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◤",
+        "name": "Black Upper Left Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⏃",
+        "name": "Dentistry Symbol Light Vertical with Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⍋",
+        "name": "Apl Functional Symbol Delta Stile",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⌲",
+        "name": "Conical Tape",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⊲",
+        "name": "Not Normal Subgroup Of",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⊳",
+        "name": "Normal Subgroup Of",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "━━▲━━",
+        "name": "triangle in middle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▔▔▿▔▔",
+        "name": "triangle downside",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◤◢◣◥◤◢◣◥◤◢◣◥",
+        "name": "multiple triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❢◥ ▬▬▬ ◆ ▬▬▬ ◤❢",
+        "name": "Black Upper Right Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "»»----------►",
+        "name": "big arrow",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◥✥◤ ◢✥◣",
+        "name": "many triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◄░░░░░░►",
+        "name": "shade between triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◤──•~❉᯽❉~•──◥",
+        "name": "small sparkles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◣──•~❉᯽❉~•──◢",
+        "name": "small sparkles",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◤━━━━━━━━━━━◥",
+        "name": "small fat line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◣━━━━━━━━━━━◢",
+        "name": "small fat line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "° ∆ ------ ••• ----- ∆ °",
+        "name": "Increment",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∆∇∆∇∆∇∆∇∆∇∆∇",
+        "name": "Nabla and Increment",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "ᐛ",
+        "name": "Happy tiny face triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◢_◣",
+        "name": "sad triangle face",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋅.˳˳.⋅ॱ˙˙ॱ⋅.˳˳.⋅ॱ˙˙ॱᐧ.˳˳.⋅",
+        "name": "dotted circle aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "-⎽__⎽-⎻⎺⎺⎻-⎽__⎽--⎻⎺⎺⎻-",
+        "name": "dashed lines aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⠂⠁⠈⠂⠄⠄⠂⠁⠁⠂⠄⠄⠂⠁⠁⠂",
+        "name": "small dots aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•*´¨`*•.¸¸.•*´¨`*•.¸¸.•",
+        "name": "circle and stars aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "ᕁ᙮ᕁᕽᕽᕁ᙮᙮ᕁᕽᕽᕁ᙮ᕁ",
+        "name": "cross aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "♪♫•*¨*•.¸¸❤¸¸.•*¨*•♫♪",
+        "name": "musical heart aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "★¸.·¯`ᕼᥱllo¸¸.•*´¨`*•.¸★",
+        "name": "hello text aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "‿︵•‿︵•‿︵•‿︵",
+        "name": "smiling dots aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "‿︵‿︵ʚ˚̣̣̣͙ɞ・❉・ ʚ˚̣̣̣͙ɞ‿︵‿︵",
+        "name": "butterfly aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "¸¸♫·¯·♪¸¸♩·¯·♬¸¸",
+        "name": "music aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "彡彡◦༄◦°˚°◦.¸¸◦°´ *•.¸♥ ♥¸.•**◦༄◦°˚°◦.¸¸彡彡",
+        "name": "falling heart aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•*´¨`*•.¸¸.•*´¨`*.¸¸.ପໄଓ࿚ପଓ",
+        "name": "flying butterfly aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙",
+        "name": "Wave in stars aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*´¨`*•.¸¸.•*",
+        "name": "circle and dots aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∴.·:*¨¨*:·. ☙.·:*¨ ¨*:·.♡ .·:*¨ ¨*:·. ❧.·:*¨ ¨*:·.∴",
+        "name": "bullets aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆",
+        "name": "white stars aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".·:*¨¨*:·. .·:*¨¨*:·.",
+        "name": "small aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✯¸.•´*¨`*•✿ ✿•*`¨*`•.¸✯",
+        "name": "flowers aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "¸,ø¤º°`°º¤ø,¸¸,ø¤º°°º¤ø,¸¸,ø¤º°`°º¤ø,¸",
+        "name": "multiple signs aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "·͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙⁺˚*•̩̩͙✩•̩̩͙*˚⁺‧͙",
+        "name": "fancy sign aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "°°°·.°·..·°¯°·._.··._.·°¯°·.·° .·°°°",
+        "name": "fancy dots aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "(¯`·.¸¸.·´¯`·.¸¸.-> text <-.¸¸.·´¯`·.¸¸.·´¯)",
+        "name": "fancy text aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".•°°•..•°°•..•°°•..•°•.",
+        "name": "black and white aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": ".¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸",
+        "name": "fancy aesthetic wave",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "‣",
+        "name": "Triangle bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⁃",
+        "name": "Hypen bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⁌",
+        "name": "Leftwards bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⁍",
+        "name": "Rightwards bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "«",
+        "name": "Two arrow left pointing left bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "»",
+        "name": "Two arrow right pointing right bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✓",
+        "name": "Checkmark bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✕",
+        "name": "Cross bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✖",
+        "name": "Cross bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☚",
+        "name": "Left pointing hand bullet point",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☛",
+        "name": "Right pointing hand bullet point",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☟",
+        "name": "Down pointing hand bullet point",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❃",
+        "name": "Flower bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✿",
+        "name": "Black Florette bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❁",
+        "name": "Eight Petalled Outlined Black Florette bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "✾",
+        "name": "Six Petalled Black and White Florette bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◈",
+        "name": "rectangular bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∴",
+        "name": "dot bullet triangular bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∵",
+        "name": "inverse triangular bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∷",
+        "name": "square dot bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☢",
+        "name": "circular bullet fan bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⊗",
+        "name": "circular bullet cross bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➡",
+        "name": "pointing right arrow bullet emoji",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➼",
+        "name": "pointing right arrow bullet",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⓪",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "①",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "②",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "③",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "④",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⑤",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⑥",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⑦",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⑧",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⑨",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⓿",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➊",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➋",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➌",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➍",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➎",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➏",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➑",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "➒",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "│",
+        "name": "Light Line Vertical Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┃",
+        "name": "Line Heavy Vertical Symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╽",
+        "name": "Line Light Up And Heavy Down Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╿",
+        "name": "Line Heavy Up And Light Down Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╏",
+        "name": "Line Heavy Double Dash Vertical Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "║",
+        "name": "Line Double Vertical Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╎",
+        "name": "Line Light Double Dash Vertical Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┇",
+        "name": "Line Heavy Triple Dash Vertical Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "︱",
+        "name": "Line Vertical Em Dash",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┊",
+        "name": "Line Light Quadruple Dash Vertical Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "︳",
+        "name": "Vertical Low Line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┋",
+        "name": "Line Heavy Quadruple Dash Vertical Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┆",
+        "name": "Line Light Triple Dash Vertical Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╵",
+        "name": "Line Light Up Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "〡",
+        "name": "Line Hangzhou Numeral One",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "〢",
+        "name": "Line Hangzhou Numeral Two",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◜",
+        "name": "Quadrant circular arc line at upper left",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◝",
+        "name": "Quadrant circular arc lineat upper right",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◞",
+        "name": "Quadrant circular arc line at lower right",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◟",
+        "name": "Quadrant circular arc lineat lower left",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╹",
+        "name": "Line Heavy Up Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╻",
+        "name": "Line Heavy Down Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╷",
+        "name": "Line Light Down Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "〣",
+        "name": "Line Hangzhou Numeral Three",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☰",
+        "name": "Menu Line Trigram for Heaven",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☱",
+        "name": "Trigram for Lake",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☲",
+        "name": "Trigram for Fire",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☳",
+        "name": "Trigram for Thunder",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☴",
+        "name": "Trigram for Wind",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☵",
+        "name": "Trigram for Water",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☶",
+        "name": "Trigram for Mountain",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "☷",
+        "name": "Trigram for Earth",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "≡",
+        "name": "Identical To",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "═",
+        "name": "Line Double Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "━",
+        "name": "Line Heavy Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "─",
+        "name": "Line Light Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╍",
+        "name": "Line Heavy Double Dash Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┅",
+        "name": "Line Heavy Triple Dash Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┉",
+        "name": "Line Heavy Quadruple Dash Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┄",
+        "name": "Line Light Triple Dash Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "┈",
+        "name": "Line Light Quadruple Dash Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╌",
+        "name": "Line Light Double Dash Horizontal Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╴",
+        "name": "Line Light Left Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╶",
+        "name": "Line Light Right Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╸",
+        "name": "Line Heavy Left Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╺",
+        "name": "Line Heavy Right Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╼",
+        "name": "Line Light Left And Heavy Right Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╾",
+        "name": "Line Heavy Left And Light Right Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "﹉",
+        "name": "Dashed Overline",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "﹍",
+        "name": "Dashed Low Line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "﹊",
+        "name": "Centreline Overline",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "﹎",
+        "name": "Centreline Low Line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "︲",
+        "name": "Vertical En Dash",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⑊",
+        "name": "Ocr Double Backslash",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "︴",
+        "name": "Vertical Wavy Low Line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "﹏",
+        "name": "Wavy Low Line",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "﹌",
+        "name": "Double Wavy Overline",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "﹋",
+        "name": "Wavy Overline",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╳",
+        "name": "Line Light Diagonal Cross Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╲",
+        "name": "Line Light Diagonal Upper Left To Lower Right Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "╱",
+        "name": "Line Light Diagonal Upper Right To Lower Left Symbol in box drawings",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "〵",
+        "name": "Line Vertical Kana Repeat Mark Lower Half",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "`",
+        "name": "Grave Accent",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "ᐟ",
+        "name": "Canadian Syllabics Final Acute",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "‐",
+        "name": "Line Hyphen",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⎯",
+        "name": "Horizontal Line Extension",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▁",
+        "name": "Lower One Eighth Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▂",
+        "name": "Lower One Quarter Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▃",
+        "name": "Lower Three Eighths Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▅",
+        "name": "Lower Five Eighths Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▆",
+        "name": "Lower Three Quarters Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▇",
+        "name": "Lower Seven Eighths Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▉",
+        "name": "Left Seven Eighths Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▊",
+        "name": "Left Three Quarters Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▋",
+        "name": "Left Five Eighths Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "█",
+        "name": "Full Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▌",
+        "name": "Left Half Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▐",
+        "name": "Right Half Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▍",
+        "name": "Left Three Eighths Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▎",
+        "name": "Left One Quarter Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▏",
+        "name": "Left One Eighth Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▕",
+        "name": "Right One Eighth Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▔",
+        "name": "Upper One Eighth Block",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▰",
+        "name": "Black Parallelogram",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▱",
+        "name": "White Parallelogram",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬝",
+        "name": "Black Very Small Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬞",
+        "name": "White Very Small Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▪",
+        "name": "Black Small Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▫",
+        "name": "White Small Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◾",
+        "name": "Black medium-small square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◽",
+        "name": "White medium-small square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "∎",
+        "name": "End Of Proof",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⯀",
+        "name": "Black Square Centred",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◼",
+        "name": "Black medium square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◻",
+        "name": "White medium square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▣",
+        "name": "White Square Containing Black Small Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◰",
+        "name": "White Square With Upper Left Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◱",
+        "name": "White Square With Lower Left Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◲",
+        "name": "White Square With Lower Right Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◳",
+        "name": "White Square With Upper Right Quadrant",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⛋",
+        "name": "White Diamond In Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧄",
+        "name": "Squared Rising Diagonal Slash",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧅",
+        "name": "Squared Falling Diagonal Slash",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⟎",
+        "name": "Squared Logical And",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⟏",
+        "name": "Squared Logical Or",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚿",
+        "name": "Squared Key",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⛝",
+        "name": "Squared Saltire",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⛞",
+        "name": "Falling Diagonal In White Circle In Black Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⛶",
+        "name": "Square Four Corners",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⛾",
+        "name": "Cup On Black Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧆",
+        "name": "Squared Asterisk",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧈",
+        "name": "Squared Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧉",
+        "name": "Two Joined Squares",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⟤",
+        "name": "White Square With Leftwards Tick",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⟥",
+        "name": "White Square With Rightwards Tick",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧮",
+        "name": "Error-barred White Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧯",
+        "name": "Error-barred Black Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬒",
+        "name": "Square With Top Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬓",
+        "name": "Square With Bottom Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬕",
+        "name": "Square With Lower Left Diagonal Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬔",
+        "name": "Square With Upper Right Diagonal Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬚",
+        "name": "Dotted Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⯐",
+        "name": "Square Position Indicator",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧠",
+        "name": "Square With Contoured Outline",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❏",
+        "name": "Lower Right Drop Shadowed White Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❐",
+        "name": "Upper Right Drop Shadowed White Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "❑",
+        "name": "Lower Right Shadowed White Square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "〓",
+        "name": "Geta Mark",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬛",
+        "name": "Black large square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⬜",
+        "name": "White large square",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔳",
+        "name": "White square button",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔲",
+        "name": "Black square button",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◇",
+        "name": "White Diamond",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◆",
+        "name": "Black Diamond",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔶",
+        "name": "Large orange diamond",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔷",
+        "name": "Large blue diamond",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "💠",
+        "name": "Diamond with a dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔸",
+        "name": "Small orange diamond",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔹",
+        "name": "Small blue diamond",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "▶",
+        "name": "Black Right pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◀",
+        "name": "Black Left pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◸",
+        "name": "Upper Left Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◹",
+        "name": "Upper Right Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◺",
+        "name": "Lower Left Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◿",
+        "name": "Lower Right Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⛛",
+        "name": "Bold Down pointing Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⟁",
+        "name": "White Triangle Containing Small White Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧊",
+        "name": "Triangle With Dot Above",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨻",
+        "name": "Multiplication Sign In Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⫷",
+        "name": "Triple nested less than",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⫸",
+        "name": "Triple nested greater than",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋖",
+        "name": "Less than with dot",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋭",
+        "name": "Does Not Contain As Normal Subgroup Or Equal",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "≜",
+        "name": "Delta Equal To",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⑅",
+        "name": "Ocr Bow Tie Symbol two triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋗",
+        "name": "Greater than with dot symbol",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧋",
+        "name": "Triangle With Underbar",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧌",
+        "name": "S In Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧍",
+        "name": "Triangle With Serifs At Bottom",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧎",
+        "name": "Right Triangle Above Left Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧏",
+        "name": "Left Triangle Beside Vertical Bar",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧐",
+        "name": "Vertical Bar Beside Right Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧨",
+        "name": "Down pointing Triangle With Left Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⧩",
+        "name": "Down pointing Triangle With Right Half Black",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨞",
+        "name": "Large Left Triangle Operator",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨨",
+        "name": "Plus Sign With Black Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋪",
+        "name": "Not normal subgroup of",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋫",
+        "name": "Does not contain as normal subgroup of",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⋬",
+        "name": "Not Normal Subgroup Of Or Equal To",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨺",
+        "name": "Minus Sign In Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "👁⃤",
+        "name": "Illuminati eye Triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "👁️⃤",
+        "name": "Illuminati eye Triangle emoji",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "◉⃤",
+        "name": "Circle with triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "📐",
+        "name": "Triangular ruler emoji",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⚠",
+        "name": "Caution triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⪧",
+        "name": "Triangle with rounded corners pointing left",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🛆",
+        "name": "Triangle with rounded corners",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "ꔪ",
+        "name": "Two triangles, one over another",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⏫",
+        "name": "Triangle up",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⏬",
+        "name": "Triangle down",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⏪",
+        "name": "Triangle left",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⏩",
+        "name": "Triangle right",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔺",
+        "name": "Red triangle pointing up",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔽",
+        "name": "Red triangle pointing down",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "⨹",
+        "name": "Plus sign inside triangle",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🌈⃤🚬⃤💙⃤✨⃤🍃⃤",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🦋⃤",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🌈⃤",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🦋",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🛸⃤",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🔥📐",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "♡⃤⭕️",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "🦋⃤❤️𝄞",
+        "name": "No name",
+        "category": "shapes_borders"
+    },
+    {
+        "symbol": "📚⃤",
+        "name": "No name",
+        "category": "shapes_borders"
+    }
+]

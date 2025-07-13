@@ -1,0 +1,282 @@
+[
+    {
+        "symbol": "○",
+        "name": "White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◌",
+        "name": "Dotted Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "☮",
+        "name": "Peace symbol",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◍",
+        "name": "Circle with vertical fill",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "●",
+        "name": "Complete Black Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◐",
+        "name": "Circle with Left Half black white Side",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◑",
+        "name": "Circle with Right Half black white Side",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◒",
+        "name": "Circle with Lower Half black white Side",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◓",
+        "name": "Circle with Upper Half black white Side",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◔",
+        "name": "Circle with Upper Right Quadrant Black",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◕",
+        "name": "Circle with All But Upper Left Quadrant Black",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◖",
+        "name": "Left Half Black Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◗",
+        "name": "Right Half Black Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◙",
+        "name": "Inverse White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◚",
+        "name": "Upper Half Inverse White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◛",
+        "name": "Lower Half Inverse White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◠",
+        "name": "Upper Half Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◡",
+        "name": "Lower Half Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◯",
+        "name": "Large Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◴",
+        "name": "White Circle with Upper Left Quadrant",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◵",
+        "name": "White Circle with Lower Left Quadrant",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◶",
+        "name": "White Circle with Lower Right Quadrant",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "◷",
+        "name": "White Circle with Upper Right Quadrant",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⚆",
+        "name": "White Circle with Dot Right",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⚇",
+        "name": "White Circle with Two Dots",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⚈",
+        "name": "Black Circle with White Dot Right",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⚉",
+        "name": "Black Circle with Two White Dots",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⚪",
+        "name": "Medium White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⚫",
+        "name": "Medium Black Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⚬",
+        "name": "Medium Small White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "✪",
+        "name": "Circled White Star",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "❂",
+        "name": "Circled Open Centre Eight Pointed Star",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "❍",
+        "name": "Shadowed White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⟟",
+        "name": "Up Tack with Circle Above",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦲",
+        "name": "Empty Set with Small Circle Above",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦵",
+        "name": "Circle with Horizontal Bar",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦶",
+        "name": "Circled Vertical Bar",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "∅",
+        "name": "Empty set",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦷",
+        "name": "Circled Parallel",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦸",
+        "name": "Circled Reverse Solidus",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦹",
+        "name": "Circled Perpendicular",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦺",
+        "name": "Circle Divided By Horizontal Bar And Top Half Divided By Vertical Bar",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦻",
+        "name": "Circle with Superimposed X",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦾",
+        "name": "Circled White Bullet",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⦿",
+        "name": "Circled Bullet",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⧂",
+        "name": "Circle with Small Circle To The Right",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⧃",
+        "name": "Circle with Two Horizontal Strokes To The Right",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⧇",
+        "name": "Squared Small Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⧲",
+        "name": "Error barred White Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⧳",
+        "name": "Error barred Black Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⨀",
+        "name": "N-ary Circled Dot Operator",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⨁",
+        "name": "N-ary Circled Plus Operator",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⨂",
+        "name": "N-ary Circled Times Operator",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⫱",
+        "name": "Down Tack with Circle Below",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⬤",
+        "name": "Black Large Circle",
+        "category": "Circle Text  Copy Paste"
+    },
+    {
+        "symbol": "⭕",
+        "name": "Red Large Circle",
+        "category": "Circle Text  Copy Paste"
+    }
+]

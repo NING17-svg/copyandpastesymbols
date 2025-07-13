@@ -1,0 +1,1417 @@
+[
+    {
+        "symbol": "♕",
+        "name": "",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♛",
+        "name": "",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♔",
+        "name": "",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♚",
+        "name": "",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "👑",
+        "name": "",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "🤴",
+        "name": "",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "👸",
+        "name": "",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♖",
+        "name": "Chess white Rook",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♗",
+        "name": "Chess White Bishop",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♘",
+        "name": "Chess white Knight",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♙",
+        "name": "Chess White Pawn",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♜",
+        "name": "Chess Black Rook",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♝",
+        "name": "Chess Black Bishop",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♞",
+        "name": "Chess Black Knight",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♟",
+        "name": "Chess Black Pawn",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♤",
+        "name": "Chess White Spade Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♠",
+        "name": "Chess Black Spade Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♧",
+        "name": "Chess White Club Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♣",
+        "name": "Chess Black Club Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♡",
+        "name": "Chess White Heart Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♥",
+        "name": "Chess Black Heart Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♢",
+        "name": "Chess White Diamond Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "♦",
+        "name": "Chess Black Diamond Suit",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": ">",
+        "name": "Geater Than Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≤",
+        "name": "Less-Than or Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≥",
+        "name": "Greater Than or Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≦",
+        "name": "Less Than Over Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≧",
+        "name": "Greater Than Over Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≨",
+        "name": "Less Than But Not Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≩",
+        "name": "Greater Than But Not Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⊰",
+        "name": "Precedes Under Relation Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⊱",
+        "name": "Succeeds Under Relation Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⋛",
+        "name": "Greater Than Equal To or Less Than Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⋚",
+        "name": "Less Than Equal To or Greater Than Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≂",
+        "name": "Minus Tilde Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≃",
+        "name": "Asymptotically Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≄",
+        "name": "Not Asymptotically Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≅",
+        "name": "Approximately Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≆",
+        "name": "Approximately But Not Actually Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≇",
+        "name": "Neither Approximately nor Actually Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≈",
+        "name": "Almost Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≉",
+        "name": "Not Almost Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≊",
+        "name": "Almost Equal or Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≋",
+        "name": "Triple Tilde Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≌",
+        "name": "All Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≍",
+        "name": "Equivalent To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≎",
+        "name": "Geometrically Equivalent To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≏",
+        "name": "Difference Between Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≐",
+        "name": "Approaches the Limit Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≑",
+        "name": "Geometrically Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≒",
+        "name": "Approximately Equal To or the Image Of Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≓",
+        "name": "Image of or Approximately Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≔",
+        "name": "Colon Equals Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≕",
+        "name": "Equals Colon Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≖",
+        "name": "Ring In Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≗",
+        "name": "Ring Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≘",
+        "name": "Corresponds To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≙",
+        "name": "Estimates Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≚",
+        "name": "Equiangular To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≛",
+        "name": "Star Equals Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≜",
+        "name": "Delta Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≝",
+        "name": "Equal To By Definition Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≞",
+        "name": "Measured By Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≟",
+        "name": "Questioned Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≠",
+        "name": "Not Equal To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≡",
+        "name": "Identical To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "≢",
+        "name": "Not Identical To Symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅰ",
+        "name": "one Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅱ",
+        "name": "two Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅲ",
+        "name": "three Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅳ",
+        "name": "four Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅴ",
+        "name": "five Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅵ",
+        "name": "six Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅶ",
+        "name": "seven Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅷ",
+        "name": "eight Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅸ",
+        "name": "nine Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅹ",
+        "name": "ten Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅺ",
+        "name": "eleven Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅻ",
+        "name": "twelve Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "XIII",
+        "name": "thirteen Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "XV",
+        "name": "fifteen 15 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "XX",
+        "name": "twenty 20 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅼ",
+        "name": "fifty 50 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅽ",
+        "name": "hundred 100 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅾ",
+        "name": "five hundred fivehundred 500 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ⅿ",
+        "name": "one Thousand 1000 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅰ",
+        "name": "one Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅱ",
+        "name": "two Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅲ",
+        "name": "three Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅳ",
+        "name": "four Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅴ",
+        "name": "five Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅵ",
+        "name": "six Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅶ",
+        "name": "seven Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅷ",
+        "name": "eight Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅸ",
+        "name": "nine Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅹ",
+        "name": "ten Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅺ",
+        "name": "eleven Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅻ",
+        "name": "twelve Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅼ",
+        "name": "fifty Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅽ",
+        "name": "hundred 100 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅾ",
+        "name": "five hundred fivehundred 500 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ⅿ",
+        "name": "one Thousand 1000 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↀ",
+        "name": "one Thousand 1000 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↁ",
+        "name": "five thousand 5000 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↂ",
+        "name": "ten thousand 10000 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↇ",
+        "name": "fifty thousand 50000 Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↈ",
+        "name": "one hundred thousand 100000 one lakh Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Ↄ",
+        "name": "Roman Numeral Reversed One Hundred Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↄ",
+        "name": "Latin Small Letter Reversed C Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↅ",
+        "name": "Roman Numeral Six Late Form Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ↆ",
+        "name": "Roman Numeral Fifty Early Form Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "↉",
+        "name": "Vulgar Fraction Zero Thirds Roman numerals",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "¼",
+        "name": "One Quarter one fourth",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "½",
+        "name": "One Half",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "¾",
+        "name": "Three Quarters one third",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁄",
+        "name": "Slash divided",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅞",
+        "name": "Seven Eighths",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅟",
+        "name": "Numerator One",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅒",
+        "name": "One Tenth",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅓",
+        "name": "One Third",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅝",
+        "name": "Five Eighths",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅖",
+        "name": "Two Fifths",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅗",
+        "name": "Three Fifths",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅘",
+        "name": "Four Fifths",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅙",
+        "name": "One Sixth",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅔",
+        "name": "Two Thirds",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅕",
+        "name": "One Fifth",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅐",
+        "name": "One Seventh",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅑",
+        "name": "One Ninth",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅚",
+        "name": "Five Sixths",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅛",
+        "name": "One Eighth",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⅜",
+        "name": "Three Eighths",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓪",
+        "name": "Circle digit 0 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "①",
+        "name": "Circle digit 1 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "②",
+        "name": "Circle digit 2 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "③",
+        "name": "Circle digit 3 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "④",
+        "name": "Circle digit 4 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑤",
+        "name": "Circle digit 5 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑥",
+        "name": "Circle digit 6 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑦",
+        "name": "Circle digit 7 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑧",
+        "name": "Circle digit 8 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑨",
+        "name": "Circle digit 9 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑩",
+        "name": "Circle digit 10 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑪",
+        "name": "Circle digit 11 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑫",
+        "name": "Circle digit 12 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑬",
+        "name": "Circle digit 13 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑭",
+        "name": "Circle digit 14 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑮",
+        "name": "Circle digit 15 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑯",
+        "name": "Circle digit 16 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑰",
+        "name": "Circle digit 17 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑱",
+        "name": "Circle digit 18 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑲",
+        "name": "Circle digit 19 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑳",
+        "name": "Circle digit 20 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉑",
+        "name": "Circle digit 21 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉒",
+        "name": "Circle digit 22 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉓",
+        "name": "Circle digit 23 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉔",
+        "name": "Circle digit 24 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉕",
+        "name": "Circle digit 25 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉖",
+        "name": "Circle digit 26 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉗",
+        "name": "Circle digit 27 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉘",
+        "name": "Circle digit 28 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉙",
+        "name": "Circle digit 29 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉚",
+        "name": "Circle digit 30 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉛",
+        "name": "Circle digit 31 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉜",
+        "name": "Circle digit 32 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉝",
+        "name": "Circle digit 33 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉞",
+        "name": "Circle digit 34 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㉟",
+        "name": "Circle digit 35 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊱",
+        "name": "Circle digit 36 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊲",
+        "name": "Circle digit 37 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊳",
+        "name": "Circle digit 38 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊴",
+        "name": "Circle digit 39 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊵",
+        "name": "Circle digit 40 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊶",
+        "name": "Circle digit 41 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊷",
+        "name": "Circle digit 42 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊸",
+        "name": "Circle digit 43 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊹",
+        "name": "Circle digit 44 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊺",
+        "name": "Circle digit 45 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊻",
+        "name": "Circle digit 46 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊼",
+        "name": "Circle digit 47 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊽",
+        "name": "Circle digit 48 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊾",
+        "name": "Circle digit 49 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "㊿",
+        "name": "Circle digit 50 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓿",
+        "name": "Black circle 0 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➊",
+        "name": "Black circle 1 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➋",
+        "name": "Black circle 2 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➌",
+        "name": "Black circle 3 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➍",
+        "name": "Black circle 4 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➎",
+        "name": "Black circle 5 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➏",
+        "name": "Black circle 6 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➐",
+        "name": "Black circle 7 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➑",
+        "name": "Black circle 8 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➒",
+        "name": "Black circle 9 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "➓",
+        "name": "Black circle 0 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓫",
+        "name": "Black circle 11 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓬",
+        "name": "Black circle 12 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓭",
+        "name": "Black circle 13 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓮",
+        "name": "Black circle 14 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓯",
+        "name": "Black circle 15 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓰",
+        "name": "Black circle 16 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓱",
+        "name": "Black circle 17 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓲",
+        "name": "Black circle 18 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓳",
+        "name": "Black circle 19 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓴",
+        "name": "Black circle 20 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓵",
+        "name": "Double Circle 1 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓶",
+        "name": "Double Circle 2 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓷",
+        "name": "Double Circle 3 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓸",
+        "name": "Double Circle 4 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓹",
+        "name": "Double Circle 5 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓺",
+        "name": "Double Circle 6 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓻",
+        "name": "Double Circle 7 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓼",
+        "name": "Double Circle 8 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓽",
+        "name": "Double Circle 9 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⓾",
+        "name": "Double Circle 10 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁰",
+        "name": "Superscript 0 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "¹",
+        "name": "Superscript 1 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "²",
+        "name": "Superscript 2 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "³",
+        "name": "Superscript 3 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁴",
+        "name": "Superscript 4 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁵",
+        "name": "Superscript 5 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁶",
+        "name": "Superscript 6 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁷",
+        "name": "Superscript 7 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁸",
+        "name": "Superscript 8 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⁹",
+        "name": "Superscript 9 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₀",
+        "name": "Subscript 0 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₁",
+        "name": "Subscript 1 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₂",
+        "name": "Subscript 2 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₃",
+        "name": "Subscript 3 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₄",
+        "name": "Subscript 4 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₅",
+        "name": "Subscript 5 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₆",
+        "name": "Subscript 6 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₇",
+        "name": "Subscript 7 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₈",
+        "name": "Subscript 8 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "₉",
+        "name": "Subscript 9 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑴",
+        "name": "Parenthesized numbers 1 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑵",
+        "name": "Parenthesized numbers 2 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑶",
+        "name": "Parenthesized numbers 3 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑷",
+        "name": "Parenthesized numbers 4 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑸",
+        "name": "Parenthesized numbers 5 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑹",
+        "name": "Parenthesized numbers 6 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑺",
+        "name": "Parenthesized numbers 7 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑻",
+        "name": "Parenthesized numbers 8 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑼",
+        "name": "Parenthesized numbers 9 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑽",
+        "name": "Parenthesized numbers 10 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑾",
+        "name": "Parenthesized numbers 11 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⑿",
+        "name": "Parenthesized numbers 12 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒀",
+        "name": "Parenthesized numbers 13 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒁",
+        "name": "Parenthesized numbers 14 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒂",
+        "name": "Parenthesized numbers 15 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒃",
+        "name": "Parenthesized numbers 16 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒄",
+        "name": "Parenthesized numbers 17 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒅",
+        "name": "Parenthesized numbers 18 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒆",
+        "name": "Parenthesized numbers 19 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒇",
+        "name": "Parenthesized numbers 20 symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒈",
+        "name": "Digit 1 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒉",
+        "name": "Digit 2 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒊",
+        "name": "Digit 3 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒋",
+        "name": "Digit 4 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒌",
+        "name": "Digit 5 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒍",
+        "name": "Digit 6 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒎",
+        "name": "Digit 7 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒏",
+        "name": "Digit 8 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒐",
+        "name": "Digit 9 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒑",
+        "name": "Digit 10 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒒",
+        "name": "Digit 11 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒓",
+        "name": "Digit 12 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒔",
+        "name": "Digit 13 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒕",
+        "name": "Digit 14 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒖",
+        "name": "Digit 15 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒗",
+        "name": "Digit 16 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒘",
+        "name": "Digit 17 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒙",
+        "name": "Digit 18 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒚",
+        "name": "Digit 19 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "⒛",
+        "name": "Digit 20 full stop symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "π",
+        "name": "PI Greek small letter",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "𝝅",
+        "name": "PI Mathematical bold italic small",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ϖ",
+        "name": "PI Greek symbol",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "ℼ",
+        "name": "PI Letter with outline",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "𝝿",
+        "name": "PI Mathematical sans-serif bold small",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "𝞹",
+        "name": "PI Mathematical sans-serif bold italic small",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "П",
+        "name": "PI Cyrillic capital letter",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "Π",
+        "name": "PI Greek capital letter",
+        "category": "math_numbers"
+    },
+    {
+        "symbol": "п",
+        "name": "PI Cyrillic small letter",
+        "category": "math_numbers"
+    }
+]

@@ -1,0 +1,247 @@
+[
+    {
+        "symbol": "₿",
+        "name": "Bitcoin",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ξ",
+        "name": "Ethereum",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "₮",
+        "name": "Tether",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "₳",
+        "name": "Cardano",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "✕",
+        "name": "XRP",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "◎",
+        "name": "Solana",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "●",
+        "name": "Polkadot",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ð",
+        "name": "Dogecoin",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "◈",
+        "name": "Dai",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ł",
+        "name": "Litecoin",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ⱥ",
+        "name": "Algorand",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ƀ",
+        "name": "Bitcoin Cash",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ο",
+        "name": "ECOMI",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "∞",
+        "name": "Internet Computer",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ξ",
+        "name": "Ethereum Classic",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ɱ",
+        "name": "Monero",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ꜩ",
+        "name": "Tezos",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ɨ",
+        "name": "Iota",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ε",
+        "name": "EOS",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ɓ",
+        "name": "Bitcoin SV",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Μ",
+        "name": "Maker",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ⓩ",
+        "name": "Zcash",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Đ",
+        "name": "Dash",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ӿ",
+        "name": "Nano",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ɍ",
+        "name": "Augur",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ȿ",
+        "name": "Steem",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "°",
+        "name": "Degree sign",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "℃",
+        "name": "Degree Celsius",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "℉",
+        "name": "Degree Fahrenheit",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "ϟ",
+        "name": "Voltage symbol",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㎎",
+        "name": "Mg milligram",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㎏",
+        "name": "Kg kilogram",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㎜",
+        "name": "Mm millimeter",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㎝",
+        "name": "Cm centimeter",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㎞",
+        "name": "Kilometer",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㎡",
+        "name": "Meter square",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㏄",
+        "name": "Cubic centimeters",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㏎",
+        "name": "Km Capital",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㏑",
+        "name": "Ln",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㏒",
+        "name": "Log",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "㏕",
+        "name": "Mil",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "lb",
+        "name": "Pound",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Hz",
+        "name": "Hertz Frequency",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Ω",
+        "name": "Ohm",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "lm",
+        "name": "Lumen",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "psi",
+        "name": "Pounds per square inch",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "cd",
+        "name": "Candela",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "Φ",
+        "name": "Lumen",
+        "category": "currency_units"
+    },
+    {
+        "symbol": "dz",
+        "name": "Dozen",
+        "category": "currency_units"
+    }
+]

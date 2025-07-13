@@ -1,0 +1,1677 @@
+[
+    {
+        "symbol": "←",
+        "name": "Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↑",
+        "name": "Up Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "→",
+        "name": "Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↓",
+        "name": "Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↚",
+        "name": "Left Arrow With Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↛",
+        "name": "Right Arrow With Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↜",
+        "name": "Left Wave Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↝",
+        "name": "Right Wave Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↞",
+        "name": "Left Two Headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↟",
+        "name": "Up Two Headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↠",
+        "name": "Right Two Headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↡",
+        "name": "Down Two Headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↢",
+        "name": "Left Arrow With Tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↣",
+        "name": "Right Arrow With Tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↤",
+        "name": "Left Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↥",
+        "name": "Up Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↦",
+        "name": "Right Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↧",
+        "name": "Down Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↨",
+        "name": "Up Down Arrow With Base",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↫",
+        "name": "Left Arrow With Loop",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↬",
+        "name": "Right Arrow With Loop",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↭",
+        "name": "Left Right Wave Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↮",
+        "name": "Left Right Arrow With Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↯",
+        "name": "Down Zigzag Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↰",
+        "name": "Up Arrow With Tip Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↱",
+        "name": "Up Arrow With Tip Right",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↲",
+        "name": "Down Arrow With Tip Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↳",
+        "name": "Down Arrow With Tip Right",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↴",
+        "name": "Right Arrow With Corner Down",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↵",
+        "name": "Down Arrow With Corner Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↶",
+        "name": "Anticlockwise Top Semicircle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↷",
+        "name": "Clockwise Top Semicircle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↸",
+        "name": "North West Arrow To Long Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↹",
+        "name": "Left Arrow To Bar Over Right Arrow To Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↺",
+        "name": "Anticlockwise Open Circle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↻",
+        "name": "Clockwise Open Circle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇄",
+        "name": "Right Arrow Over Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇅",
+        "name": "Up Arrow Left Of Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇆",
+        "name": "Left Arrow Over Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇇",
+        "name": "Left Paired Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇈",
+        "name": "Up Paired Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇉",
+        "name": "Right Paired Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🏹",
+        "name": "Bow And Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "💘",
+        "name": "Heart With Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "📩",
+        "name": "Envelope With Down Arrow Above",
+        "category": "arrows"
+    },
+    {
+        "symbol": "📲",
+        "name": "Mobile Phone With Right Arrow At Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "📤",
+        "name": "Outbox Tray",
+        "category": "arrows"
+    },
+    {
+        "symbol": "📥",
+        "name": "İnbox Tray",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔙",
+        "name": "Back With Left Arrow Above",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔚",
+        "name": "End With Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔛",
+        "name": "On With Left Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔜",
+        "name": "Soon With Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔝",
+        "name": "Top With Up Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬆",
+        "name": "Up Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↗",
+        "name": "Up-Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➡",
+        "name": "Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↘",
+        "name": "Down Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬇",
+        "name": "Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↙",
+        "name": "Down Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬅",
+        "name": "Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↖",
+        "name": "Up Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↕",
+        "name": "Up Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↔",
+        "name": "Left Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↩",
+        "name": "Right Arrow Curving Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↪",
+        "name": "Left Arrow Curving Right",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤴",
+        "name": "Right Arrow Curving Up",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤵",
+        "name": "Right Arrow Curving Down",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔀",
+        "name": "Twisted Right Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔁",
+        "name": "Clockwise Right And Left Open Circle Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔂",
+        "name": "Clockwise Right And Left Open Circle Arrows With Circled One Overlay",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔃",
+        "name": "Clockwise Down And Up Open Circle Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🔄",
+        "name": "Anticlockwise Down And Up Open Circle Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇊",
+        "name": "Down Paired Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇍",
+        "name": "Left Double Arrow With Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇎",
+        "name": "Left Right Double Arrow With Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇏",
+        "name": "Right Double Arrow With Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇐",
+        "name": "Left Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇑",
+        "name": "Up Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇒",
+        "name": "Right Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇓",
+        "name": "Down Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇔",
+        "name": "Left Right Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇕",
+        "name": "Up Down Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇖",
+        "name": "North West Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇗",
+        "name": "North East Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇘",
+        "name": "South East Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇙",
+        "name": "South West Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇚",
+        "name": "Left Triple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇛",
+        "name": "Right Triple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇜",
+        "name": "Left Squiggle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇝",
+        "name": "Right Squiggle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇞",
+        "name": "Up Arrow With Double Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇟",
+        "name": "Down Arrow With Double Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇠",
+        "name": "Left Dashed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇡",
+        "name": "Up Dashed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇢",
+        "name": "Right Dashed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇣",
+        "name": "Down Dashed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇤",
+        "name": "Left Arrow To Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇥",
+        "name": "Right Arrow To Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇦",
+        "name": "Left White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇧",
+        "name": "Up White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇨",
+        "name": "Right White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇩",
+        "name": "Down White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇱",
+        "name": "North West Arrow To Corner",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇲",
+        "name": "South East Arrow To Corner",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇳",
+        "name": "Up Down White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇴",
+        "name": "Right Arrow With Small Circle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇵",
+        "name": "Down Arrow Left Of Up Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇶",
+        "name": "Three Right Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇷",
+        "name": "Left Arrow With Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇸",
+        "name": "Right Arrow With Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇹",
+        "name": "Left Right Arrow With Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇺",
+        "name": "Left Arrow With Double Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇻",
+        "name": "Right Arrow With Double Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇼",
+        "name": "Left Right Arrow With Double Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇽",
+        "name": "Left Open headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇾",
+        "name": "Right Open-headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇿",
+        "name": "Left Right Open headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⌁",
+        "name": "Electric Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⍼",
+        "name": "Right Angle With Down Zigzag Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⎋",
+        "name": "Broken Circle With Northwest Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➔",
+        "name": "Heavy Wide headed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➘",
+        "name": "Heavy South East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➙",
+        "name": "Heavy Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➚",
+        "name": "Heavy North East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➛",
+        "name": "Drafting Point Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➜",
+        "name": "Heavy Round tipped Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➝",
+        "name": "Triangle headed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➞",
+        "name": "Heavy Triangle headed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➟",
+        "name": "Dashed Triangle-headed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➠",
+        "name": "Heavy Dashed Triangle-headed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➢",
+        "name": "Three-d Top-lighted Right Arrowhead",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➣",
+        "name": "Three-d Bottom-lighted Right Arrowhead",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➤",
+        "name": "Black Right Arrowhead",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➥",
+        "name": "Heavy Black Curved Down And Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➦",
+        "name": "Heavy Black Curved Up And Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➧",
+        "name": "Squat Black Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➨",
+        "name": "Heavy Concave-pointed Black Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➩",
+        "name": "Right shaded White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➪",
+        "name": "Left shaded White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➫",
+        "name": "Back tilted Shadowed White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➬",
+        "name": "Front tilted Shadowed White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➭",
+        "name": "Heavy Lower Right shadowed White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➮",
+        "name": "Heavy Upper Right shadowed White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➯",
+        "name": "Notched Lower Right shadowed White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➱",
+        "name": "Notched Upper Right shadowed White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➲",
+        "name": "Circled Heavy White Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➳",
+        "name": "White feathered Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➴",
+        "name": "Black feathered South East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➵",
+        "name": "Black feathered Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➶",
+        "name": "Black feathered North East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➷",
+        "name": "Heavy Black feathered South East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➸",
+        "name": "Heavy Black feathered Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➹",
+        "name": "Heavy Black feathered North East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➺",
+        "name": "Teardrop barbed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➻",
+        "name": "Heavy Teardrop shanked Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➼",
+        "name": "Wedge tailed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➽",
+        "name": "Heavy Wedge tailed Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➾",
+        "name": "Open outlined Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟰",
+        "name": "Up Quadruple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟱",
+        "name": "Down Quadruple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟲",
+        "name": "Anticlockwise Gapped 76",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟳",
+        "name": "Clockwise Gapped Circle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟴",
+        "name": "Right Arrow With Circled Plus",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟵",
+        "name": "Long Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟶",
+        "name": "Long Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟷",
+        "name": "Long Left Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟸",
+        "name": "Long Left Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟹",
+        "name": "Long Right Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟺",
+        "name": "Long Left Right Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟻",
+        "name": "Long Left Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟼",
+        "name": "Long Right Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟽",
+        "name": "Long Left Double Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟾",
+        "name": "Long Right Double Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⟿",
+        "name": "Long Right Squiggle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤀",
+        "name": "Right Two headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤁",
+        "name": "Right Two headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤂",
+        "name": "Left Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤃",
+        "name": "Right Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤄",
+        "name": "Left Right Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤅",
+        "name": "Right Two headed Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤆",
+        "name": "Left Double Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤇",
+        "name": "Right Double Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤈",
+        "name": "Down Arrow With Horizontal Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤉",
+        "name": "Up Arrow With Horizontal Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤊",
+        "name": "Up Triple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤋",
+        "name": "Down Triple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤌",
+        "name": "Left Double Dash Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤍",
+        "name": "Right Double Dash Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤎",
+        "name": "Left Triple Dash Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤏",
+        "name": "Right Triple Dash Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤐",
+        "name": "Right Two-headed Triple Dash Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤑",
+        "name": "Right Arrow With Dotted Stem",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤒",
+        "name": "Up Arrow To Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤓",
+        "name": "Down Arrow To Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤔",
+        "name": "Right Arrow With Tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤕",
+        "name": "Right Arrow With Tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤖",
+        "name": "Right Two headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤗",
+        "name": "Right Two headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤘",
+        "name": "Right Two headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤙",
+        "name": "Left Arrow tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤚",
+        "name": "Right Arrow tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤛",
+        "name": "Left Double Arrow tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤜",
+        "name": "Right Double Arrow tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤝",
+        "name": "Left Arrow To Black Diamond",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤞",
+        "name": "Right Arrow To Black Diamond",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤟",
+        "name": "Left Arrow From Bar To Black Diamond",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤠",
+        "name": "Right Arrow From Bar To Black Diamond",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤡",
+        "name": "North West And South East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤢",
+        "name": "North East And South West Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤣",
+        "name": "North West Arrow With Hook",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤤",
+        "name": "North East Arrow With Hook",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤥",
+        "name": "South East Arrow With Hook",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤦",
+        "name": "South West Arrow With Hook",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤳",
+        "name": "Wave Arrow Pointing Directly Right",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤶",
+        "name": "Arrow Pointing Down Then Curving Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤷",
+        "name": "Arrow Pointing Down Then Curving Right",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤸",
+        "name": "Right side Arc Clockwise Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤹",
+        "name": "Left side Arc Anticlockwise Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤺",
+        "name": "Top Arc Anticlockwise Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤻",
+        "name": "Bottom Arc Anticlockwise Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤼",
+        "name": "Top Arc Clockwise Arrow With Minus",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤽",
+        "name": "Top Arc Anticlockwise Arrow With Plus",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤾",
+        "name": "Lower Right Semicircular Clockwise Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⤿",
+        "name": "Lower Left Semicircular Anticlockwise Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥀",
+        "name": "Anticlockwise Closed Circle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥁",
+        "name": "Clockwise Closed Circle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥂",
+        "name": "Right Arrow Above Short Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥃",
+        "name": "Left Arrow Above Short Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥄",
+        "name": "Short Right Arrow Above Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥅",
+        "name": "Right Arrow With Plus Below",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥆",
+        "name": "Left Arrow With Plus Below",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥇",
+        "name": "Right Arrow Through X",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥈",
+        "name": "Left Right Arrow Through Small Circle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⥉",
+        "name": "Up Two-headed Arrow From Small Circle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦽",
+        "name": "Up Arrow Through Circle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⧪",
+        "name": "Black Diamond With Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⧬",
+        "name": "White Circle With Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⧭",
+        "name": "Black Circle With Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⨗",
+        "name": "Integral With Left Arrow With Hook",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬀",
+        "name": "North East White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬁",
+        "name": "North West White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬂",
+        "name": "South East White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬃",
+        "name": "South West White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬄",
+        "name": "Left Right White Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬈",
+        "name": "North East Black Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬉",
+        "name": "North West Black Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬊",
+        "name": "South East Black Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬋",
+        "name": "South West Black Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬌",
+        "name": "Left Right Black Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬍",
+        "name": "Up Down Black Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬎",
+        "name": "Right Arrow With Tip Down",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬏",
+        "name": "Right Arrow With Tip Up",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬐",
+        "name": "Left Arrow With Tip Down",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬑",
+        "name": "Left Arrow With Tip Up",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬰",
+        "name": "Left Arrow With Small Circle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬱",
+        "name": "Three Left Arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬲",
+        "name": "Left Arrow With Circled Plus",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬳",
+        "name": "Long Left Squiggle Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬴",
+        "name": "Left Two-headed Arrow With Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬵",
+        "name": "Left Two-headed Arrow With Double Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬶",
+        "name": "Left Two-headed Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬷",
+        "name": "Left Two-headed Triple Dash Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬸",
+        "name": "Left Arrow With Dotted Stem",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬹",
+        "name": "Left Arrow With Tail With Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬺",
+        "name": "Left Arrow With Tail With Double Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬻",
+        "name": "Left Two-headed Arrow With Tail",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬼",
+        "name": "Left Two-headed Arrow With Tail With Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬽",
+        "name": "Left Two-headed Arrow With Tail With Double Vertical Stroke",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬾",
+        "name": "Left Arrow Through X",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⬿",
+        "name": "Wave Arrow Pointing Directly Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭀",
+        "name": "Equals Sign Above Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭁",
+        "name": "Reverse Tilde Operator Above Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭂",
+        "name": "Left Arrow Above Reverse Almost Equal To",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭃",
+        "name": "Right Arrow Through Greater than",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭄",
+        "name": "Right Arrow Through Superset",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭅",
+        "name": "Left Quadruple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭆",
+        "name": "Right Quadruple Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭇",
+        "name": "Reverse Tilde Operator Above Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭈",
+        "name": "Right Arrow Above Reverse Almost Equal To",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭉",
+        "name": "Tilde Operator Above Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭊",
+        "name": "Left Arrow Above Almost Equal To",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭋",
+        "name": "Left Arrow Above Reverse Tilde Operator",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭌",
+        "name": "Right Arrow Above Reverse Tilde Operator",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⽮",
+        "name": "Kangxi Radical Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "￩",
+        "name": "Halfwidth Left Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "￪",
+        "name": "Halfwidth Up Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "￫",
+        "name": "Halfwidth Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "￬",
+        "name": "Halfwidth Down Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "ˏˋ°•*⁀➷",
+        "name": "falling arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "·˚ ༘₊·꒰➳: ̗̀➛",
+        "name": "arrow towards right direction",
+        "category": "arrows"
+    },
+    {
+        "symbol": "┊┊┊┊ ➶ ❁۪｡˚ ✧",
+        "name": "flower arrow and sparkle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "┊ ➶ ｡˚ °",
+        "name": "arrow with bubbles",
+        "category": "arrows"
+    },
+    {
+        "symbol": "┊ ˚➶ ｡˚ ☁️",
+        "name": "arrow in cloud",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↶*ೃ✧˚.❃ ↷ˊ-",
+        "name": "curve arrow with flower",
+        "category": "arrows"
+    },
+    {
+        "symbol": "╰┈➤ ❝ [text] ❞",
+        "name": "fancy arrow text",
+        "category": "arrows"
+    },
+    {
+        "symbol": ". . . ⇢ ˗ˏˋ [text]",
+        "name": "fancy text arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "╰─▸ ❝ @[user]",
+        "name": "user text arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "»»——⍟——««",
+        "name": "star in circle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "»»———-text -———-««",
+        "name": "fancy text in middle arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "̶̶̶̶ «̶ ̶̶̶  «̶ text ̶ ̶ ̶»̶ ̶̶̶ ̶ »̶ ̶̶̶",
+        "name": "fancy text on arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↳˗ˏˋtextˊˎ˗ ↴",
+        "name": "corner arrow text",
+        "category": "arrows"
+    },
+    {
+        "symbol": "❍⌇─➭ welcome ﹀﹀︵↷",
+        "name": "welcome text arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "»»-----------►",
+        "name": "too long arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "➴➵➶➴➵➶➴➵➶",
+        "name": "multiple arrows",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇘⇙",
+        "name": "South East west Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇗⇖",
+        "name": "North East west Double Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇘ : : @[]@ ::⇙",
+        "name": "double arrow text",
+        "category": "arrows"
+    },
+    {
+        "symbol": "↳-arrow-༉‧₊˚✧",
+        "name": "fancy shining text",
+        "category": "arrows"
+    },
+    {
+        "symbol": "ೃ❤⁀➷",
+        "name": "Heart with arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "ˋ°•*⁀➷",
+        "name": "Heavy Black-feathered South East Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "જ⁀➴",
+        "name": "falling arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "»»ᅳᅳᅳᅳ►",
+        "name": "right direction arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "◃───────────▹",
+        "name": "both side arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮰",
+        "name": "Arrow Pointing Downwards Then Curving Leftwards",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮱",
+        "name": "Arrow Pointing Downwards Then Curving Rightwards",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮶",
+        "name": "Arrow Pointing Downwards and Turning Rightwards",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮷",
+        "name": "Arrow Pointing Downwards and Turning Leftwards",
+        "category": "arrows"
+    },
+    {
+        "symbol": "🡙",
+        "name": "Up Down Sans-Serif Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦪",
+        "name": "Right Arrow with Circled Plus",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦫",
+        "name": "Right Arrow with Circled Minus",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦮",
+        "name": "Right Arrow with Circled Plus Below",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦯",
+        "name": "Right Arrow with Circled Minus Below",
+        "category": "arrows"
+    },
+    {
+        "symbol": "ꜜ",
+        "name": "Dotted Right Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⭥",
+        "name": "Up Down Triangle-Headed Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "▼",
+        "name": "Black Down-Pointing Small Triangle",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⇪",
+        "name": "Upwards White Arrow From Bar",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦨",
+        "name": "Measured Angle With Open Arm Ending In Arrow Pointing Up And Right",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦩",
+        "name": "Measured Angle With Open Arm Ending In Arrow Pointing Up And Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦬",
+        "name": "Measured Angle With Open Arm Ending In Arrow Pointing Right And Up",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⦭",
+        "name": "Measured Angle With Open Arm Ending In Arrow Pointing Left And Up",
+        "category": "arrows"
+    },
+    {
+        "symbol": "ꜛ",
+        "name": "Modifier Letter Raised Up Arrow",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮲",
+        "name": "Ribbon Arrow Up Left",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮳",
+        "name": "Ribbon Arrow Up Right",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮴",
+        "name": "Ribbon Arrow Left Up",
+        "category": "arrows"
+    },
+    {
+        "symbol": "⮵",
+        "name": "Ribbon Arrow Right Up",
+        "category": "arrows"
+    }
+]

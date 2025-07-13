@@ -1,0 +1,177 @@
+[
+    {
+        "symbol": "▒▒▒▒▒▒▒▒▒▒ 100% ᴄᴏᴍᴘʟᴇᴛᴇ!",
+        "name": "loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "██ 20% *___*",
+        "name": "20% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "███ 40% *___*",
+        "name": "40% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "████ 60% *___*",
+        "name": "60% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "█████ 80% *___*",
+        "name": "80% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "██████ 100%*___*",
+        "name": "100% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "1%",
+        "name": "1% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "15%",
+        "name": "15% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "30%",
+        "name": "30% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "70%",
+        "name": "70% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "99%",
+        "name": "99% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "100%",
+        "name": "100% loading complete",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "↺1%",
+        "name": "1% replay",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "↺18%",
+        "name": "18% replay",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "↺35%",
+        "name": "35% replay",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "↺67%",
+        "name": "67% replay",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "↺99%",
+        "name": "99% replay",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "█▒▒▒▒▒▒▒▒▒",
+        "name": "10% loading bar",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "███▒▒▒▒▒▒▒",
+        "name": "30% loading bar",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "█████▒▒▒▒▒",
+        "name": "50% loading bar",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "███████▒▒▒",
+        "name": "70% loading bar",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "██████████",
+        "name": "100% loading bar",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "𝐍𝐨𝐰 𝐥𝐨𝐚𝐝𝐢𝐧𝐠...",
+        "name": "now loading sign",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "⋘ 𝑃𝑙𝑒𝑎𝑠𝑒 𝑤𝑎𝑖𝑭...",
+        "name": "wait its loading sign",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "⋘ 𝑙𝑜𝑎𝑑𝑖𝑛𝑔 𝑑𝑎𝑡𝑎...⋙",
+        "name": "loading data sign",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "⋘ ᴛʀʏ ʟᴀᴛᴇʀ... ⋙",
+        "name": "try later sign",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■□□□□□□□□□] 10%",
+        "name": "10% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■□□□□□□□□] 20%",
+        "name": "20% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■■□□□□□□□] 30%",
+        "name": "30% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■■■□□□□□□] 40%",
+        "name": "40% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■■■■□□□□□] 50%",
+        "name": "50% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■■■■■□□□□] 60%",
+        "name": "60% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■■■■■■□□□] 70%",
+        "name": "70% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■■■■■■■□□] 80%",
+        "name": "80% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    },
+    {
+        "symbol": "[■■■■■■■■■□] 90%",
+        "name": "90% progress done",
+        "category": "Cool loading symbol ███ 40% *___*"
+    }
+]

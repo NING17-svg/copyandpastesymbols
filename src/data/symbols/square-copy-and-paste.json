@@ -1,0 +1,412 @@
+[
+    {
+        "symbol": "⬝",
+        "name": "Black Very Small Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬞",
+        "name": "White Very Small Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▪",
+        "name": "Black Small Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▫",
+        "name": "White Small Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◾",
+        "name": "Black medium-small square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◽",
+        "name": "White medium-small square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "∎",
+        "name": "End Of Proof",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "■",
+        "name": "Black Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⯀",
+        "name": "Black Square Centred",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "□",
+        "name": "White Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◼",
+        "name": "Black medium square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◻",
+        "name": "White medium square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▢",
+        "name": "White Square With Rounded Corners",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▣",
+        "name": "White Square Containing Black Small Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▤",
+        "name": "Square With Horizontal Fill",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▥",
+        "name": "Square With Vertical Fill",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▦",
+        "name": "Square With Orthogonal Crosshatch Fill",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▧",
+        "name": "Square With Upper Left To Lower Right Fill",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▨",
+        "name": "Square With Upper Right To Lower Left Fill",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "▩",
+        "name": "Square With Diagonal Crosshatch Fill",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◫",
+        "name": "White Square With Vertical Bisecting Line",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◰",
+        "name": "White Square With Upper Left Quadrant",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◱",
+        "name": "White Square With Lower Left Quadrant",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◲",
+        "name": "White Square With Lower Right Quadrant",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◳",
+        "name": "White Square With Upper Right Quadrant",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⛋",
+        "name": "White Diamond In Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧄",
+        "name": "Squared Rising Diagonal Slash",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧅",
+        "name": "Squared Falling Diagonal Slash",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⟎",
+        "name": "Squared Logical And",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⟏",
+        "name": "Squared Logical Or",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⚿",
+        "name": "Squared Key",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⛝",
+        "name": "Squared Saltire",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⛞",
+        "name": "Falling Diagonal In White Circle In Black Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⛶",
+        "name": "Square Four Corners",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⛾",
+        "name": "Cup On Black Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧆",
+        "name": "Squared Asterisk",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧇",
+        "name": "Squared Small Circle",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧈",
+        "name": "Squared Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧉",
+        "name": "Two Joined Squares",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⟤",
+        "name": "White Square With Leftwards Tick",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⟥",
+        "name": "White Square With Rightwards Tick",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧮",
+        "name": "Error-barred White Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧯",
+        "name": "Error-barred Black Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◧",
+        "name": "Square With Left Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◨",
+        "name": "Square With Right Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬒",
+        "name": "Square With Top Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬓",
+        "name": "Square With Bottom Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬕",
+        "name": "Square With Lower Left Diagonal Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬔",
+        "name": "Square With Upper Right Diagonal Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◩",
+        "name": "Square With Upper Left Diagonal Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◪",
+        "name": "Square With Lower Right Diagonal Half Black",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬚",
+        "name": "Dotted Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⯐",
+        "name": "Square Position Indicator",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⧠",
+        "name": "Square With Contoured Outline",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "❏",
+        "name": "Lower Right Drop Shadowed White Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "❐",
+        "name": "Upper Right Drop Shadowed White Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "❑",
+        "name": "Lower Right Shadowed White Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "❒",
+        "name": "Upper Right Shadowed White Square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⊟",
+        "name": "Squared Minus",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⊠",
+        "name": "Squared Times",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⊡",
+        "name": "Squared Dot Operator",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☰",
+        "name": "Trigram for Heaven",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☲",
+        "name": "Trigram for Fire",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☱",
+        "name": "Trigram for Lake",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☴",
+        "name": "Trigram for Wind",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☵",
+        "name": "Trigram for Water",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☶",
+        "name": "Trigram for Mountain",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☳",
+        "name": "Trigram for Thunder",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "☷",
+        "name": "Trigram for Earth",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "〓",
+        "name": "Geta Mark",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬛",
+        "name": "Black large square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "⬜",
+        "name": "White large square",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "🔳",
+        "name": "White square button",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "🔲",
+        "name": "Black square button",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◇",
+        "name": "White Diamond",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◈",
+        "name": "White Diamond Containing Black Small Diamond",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "◆",
+        "name": "Black Diamond",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "🔶",
+        "name": "Large orange diamond",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "🔷",
+        "name": "Large blue diamond",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "💠",
+        "name": "Diamond with a dot",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "🔸",
+        "name": "Small orange diamond",
+        "category": "Square  Copy and Paste"
+    },
+    {
+        "symbol": "🔹",
+        "name": "Small blue diamond",
+        "category": "Square  Copy and Paste"
+    }
+]

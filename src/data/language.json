@@ -1,0 +1,622 @@
+[
+    {
+        "symbol": "愛",
+        "name": "Chinese Symbol for Love",
+        "category": "language"
+    },
+    {
+        "symbol": "㊊",
+        "name": "Circled Ideograph Moon",
+        "category": "language"
+    },
+    {
+        "symbol": "㊋",
+        "name": "Circled Ideograph Fire",
+        "category": "language"
+    },
+    {
+        "symbol": "㊌",
+        "name": "Circled Ideograph Water",
+        "category": "language"
+    },
+    {
+        "symbol": "㊍",
+        "name": "Circled Ideograph Wood",
+        "category": "language"
+    },
+    {
+        "symbol": "㊎",
+        "name": "Circled Ideograph Metal",
+        "category": "language"
+    },
+    {
+        "symbol": "㊏",
+        "name": "Circled Ideograph Earth",
+        "category": "language"
+    },
+    {
+        "symbol": "㊐",
+        "name": "Circled Ideograph Sun",
+        "category": "language"
+    },
+    {
+        "symbol": "㊑",
+        "name": "Circled Ideograph Stock",
+        "category": "language"
+    },
+    {
+        "symbol": "㊒",
+        "name": "Circled Ideograph Have",
+        "category": "language"
+    },
+    {
+        "symbol": "㊓",
+        "name": "Circled Ideograph Society",
+        "category": "language"
+    },
+    {
+        "symbol": "㊔",
+        "name": "Circled Ideograph Name",
+        "category": "language"
+    },
+    {
+        "symbol": "㊕",
+        "name": "Circled Ideograph Special",
+        "category": "language"
+    },
+    {
+        "symbol": "㊖",
+        "name": "Circled Ideograph Financial",
+        "category": "language"
+    },
+    {
+        "symbol": "㊗",
+        "name": "Circled Ideograph Congratulation",
+        "category": "language"
+    },
+    {
+        "symbol": "㊘",
+        "name": "Circled Ideograph Labor",
+        "category": "language"
+    },
+    {
+        "symbol": "㊙",
+        "name": "Circled Ideograph Secret",
+        "category": "language"
+    },
+    {
+        "symbol": "㊚",
+        "name": "Circled Ideograph Male",
+        "category": "language"
+    },
+    {
+        "symbol": "㊛",
+        "name": "Circled Ideograph Female",
+        "category": "language"
+    },
+    {
+        "symbol": "㊜",
+        "name": "Circled Ideograph Suitable",
+        "category": "language"
+    },
+    {
+        "symbol": "㊝",
+        "name": "Circled Ideograph Excellent",
+        "category": "language"
+    },
+    {
+        "symbol": "㊞",
+        "name": "Circled Ideograph Print",
+        "category": "language"
+    },
+    {
+        "symbol": "㊟",
+        "name": "Circled Ideograph Attention",
+        "category": "language"
+    },
+    {
+        "symbol": "㊠",
+        "name": "Circled Ideograph Item",
+        "category": "language"
+    },
+    {
+        "symbol": "㊡",
+        "name": "Circled Ideograph Rest",
+        "category": "language"
+    },
+    {
+        "symbol": "㊢",
+        "name": "Circled Ideograph Copy",
+        "category": "language"
+    },
+    {
+        "symbol": "㊣",
+        "name": "Circled Ideograph Correct",
+        "category": "language"
+    },
+    {
+        "symbol": "㊤",
+        "name": "Circled Ideograph High",
+        "category": "language"
+    },
+    {
+        "symbol": "㊥",
+        "name": "Circled Ideograph Centre",
+        "category": "language"
+    },
+    {
+        "symbol": "㊦",
+        "name": "Circled Ideograph Low",
+        "category": "language"
+    },
+    {
+        "symbol": "㊧",
+        "name": "Circled Ideograph Left",
+        "category": "language"
+    },
+    {
+        "symbol": "㊨",
+        "name": "Circled Ideograph Right",
+        "category": "language"
+    },
+    {
+        "symbol": "㊩",
+        "name": "Circled Ideograph Medicine",
+        "category": "language"
+    },
+    {
+        "symbol": "㊪",
+        "name": "Circled Ideograph Religion",
+        "category": "language"
+    },
+    {
+        "symbol": "㊮",
+        "name": "Circled Ideograph Resource",
+        "category": "language"
+    },
+    {
+        "symbol": "㊯",
+        "name": "Circled Ideograph Alliance",
+        "category": "language"
+    },
+    {
+        "symbol": "㊰",
+        "name": "Circled Ideograph Night",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅿ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅬ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅗ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅄ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄱ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄲ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅅ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅘ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅭ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆀ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆁ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅮ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅙ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅆ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄳ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄴ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅇ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅚ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅯ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆂ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆃ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅰ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅛ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅈ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄵ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄶ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅉ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅜ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅱ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆄ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄷ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅊ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅝ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅲ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆅ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆆ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅳ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅞ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅋ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄸ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄹ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅌ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅟ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅴ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆇ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆈ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅵ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅠ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅍ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄺ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄻ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅎ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅡ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅶ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆉ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㆊ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅷ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅢ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅏ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄼ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄽ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅐ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅥ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅸ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅹ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅦ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅑ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄾ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㄿ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅒ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅧ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅺ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅻ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅨ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅓ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅀ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅁ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅔ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅩ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅼ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅽ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅪ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅕ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅂ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅃ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅖ",
+        "name": "",
+        "category": "language"
+    },
+    {
+        "symbol": "ㅾ",
+        "name": "",
+        "category": "language"
+    }
+]

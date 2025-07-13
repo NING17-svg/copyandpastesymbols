@@ -1,0 +1,222 @@
+[
+    {
+        "symbol": ">",
+        "name": "Geater Than Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≤",
+        "name": "Less-Than or Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≥",
+        "name": "Greater Than or Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≦",
+        "name": "Less Than Over Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≧",
+        "name": "Greater Than Over Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≨",
+        "name": "Less Than But Not Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≩",
+        "name": "Greater Than But Not Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "⊰",
+        "name": "Precedes Under Relation Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "⊱",
+        "name": "Succeeds Under Relation Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "⋛",
+        "name": "Greater Than Equal To or Less Than Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "⋚",
+        "name": "Less Than Equal To or Greater Than Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≂",
+        "name": "Minus Tilde Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≃",
+        "name": "Asymptotically Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≄",
+        "name": "Not Asymptotically Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≅",
+        "name": "Approximately Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≆",
+        "name": "Approximately But Not Actually Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≇",
+        "name": "Neither Approximately nor Actually Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≈",
+        "name": "Almost Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≉",
+        "name": "Not Almost Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≊",
+        "name": "Almost Equal or Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≋",
+        "name": "Triple Tilde Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≌",
+        "name": "All Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≍",
+        "name": "Equivalent To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≎",
+        "name": "Geometrically Equivalent To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≏",
+        "name": "Difference Between Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≐",
+        "name": "Approaches the Limit Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≑",
+        "name": "Geometrically Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≒",
+        "name": "Approximately Equal To or the Image Of Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≓",
+        "name": "Image of or Approximately Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≔",
+        "name": "Colon Equals Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≕",
+        "name": "Equals Colon Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≖",
+        "name": "Ring In Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≗",
+        "name": "Ring Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≘",
+        "name": "Corresponds To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≙",
+        "name": "Estimates Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≚",
+        "name": "Equiangular To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≛",
+        "name": "Star Equals Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≜",
+        "name": "Delta Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≝",
+        "name": "Equal To By Definition Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≞",
+        "name": "Measured By Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≟",
+        "name": "Questioned Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≠",
+        "name": "Not Equal To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≡",
+        "name": "Identical To Symbol",
+        "category": "Comparison s Copy and Paste"
+    },
+    {
+        "symbol": "≢",
+        "name": "Not Identical To Symbol",
+        "category": "Comparison s Copy and Paste"
+    }
+]
