@@ -1,176 +1,116 @@
-# copyandpastesymbols.pro 网站设计方案
+# Copy and Paste Symbols | Special Characters & Text Symbols
 
-## 项目概述
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fcopyandpastesymbols.pro)](https://copyandpastesymbols.pro)
+[![Last Update](https://img.shields.io/badge/last%20update-July%202025-brightgreen)](https://copyandpastesymbols.pro)
 
-copyandpastesymbols.pro 是一个提供各种特殊符号、表情和文本装饰的网站，用户可以轻松复制粘贴这些符号到社交媒体、聊天工具或其他平台。网站采用现代化设计，操作简单直观，为用户提供丰富多样的符号资源。
+[English](#english) | [中文](#chinese)
 
-## 技术栈
+<p align="center">
+  <a href="https://copyandpastesymbols.pro/">
+    <img src="https://copyandpastesymbols.pro/og-image.png" alt="Copy and Paste Symbols - Collection of special characters, emojis and text symbols" width="600">
+  </a>
+</p>
 
-- **前端框架**：Next.js
-- **样式**：Tailwind CSS
-- **状态管理**：React Context API 或 Redux
-- **部署**：Vercel
-- **广告集成**：Google AdSense
-- **分析工具**：Google Analytics
-- **SEO 工具**：Next.js 内置 SEO 优化功能
+<a name="english"></a>
+## ✨ Easy Copy and Paste Symbols for Everyone
 
-## 项目结构
+**[CopyAndPasteSymbols.pro](https://copyandpastesymbols.pro/)** is a comprehensive collection of special symbols, emojis, and text decorations that users can easily copy and paste into their messages, social media posts, documents, and more.
 
+### 🚀 Features
+
+- **Extensive Symbol Collection**: Thousands of carefully curated symbols organized by category
+- **One-Click Copy**: Instantly copy any symbol to your clipboard with a single click
+- **Smart Search**: Quickly find the perfect symbol using our intuitive search function
+- **Symbol Combiner**: Create custom symbol combinations and text decorations
+- **Mobile Friendly**: Works seamlessly across all devices and platforms
+- **No Sign-up Required**: Free to use without any registration
+
+### 💻 Technologies Used
+
+- **Frontend**: Next.js, React, Tailwind CSS
+- **State Management**: React Context API
+- **Deployment**: Vercel
+- **Performance**: Static Site Generation for blazing fast load times
+
+### 📋 Categories
+
+Our collection includes a wide variety of symbols:
+
+- **Emoticons**: `(˶˃ ᵕ ˂˶)` `૮꒰ ˶• ༝ •˶꒱ა ♡`
+- **Stars & Decorations**: `★` `☆` `✮` `✧`
+- **Hearts & Love**: `❤︎` `♡` `💕`
+- **Arrows**: Various directional symbols
+- **Mathematical Symbols**: Equations, fractions, and more
+- **Text Fonts**: `𝓯𝓻𝓮𝓪𝓴𝔂` `𝖂𝖍𝖆𝖙 𝖙𝖍𝖊 𝖘𝖎𝖌𝖒𝖆`
+- **Borders & Lines**: `─── ⋆⋅☆⋅⋆ ───` `┌─── ∘°❉°∘ ───┐`
+
+### 🔧 Getting Started (For Developers)
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/copyandpastesymbols.git
+
+# Navigate to project directory
+cd copyandpastesymbols
+
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
 ```
-copyandpastesymbols.pro/
-├── public/
-│   ├── favicon.ico
-│   ├── robots.txt
-│   └── sitemap.xml
-├── src/
-│   ├── components/
-│   │   ├── layout/
-│   │   ├── symbols/
-│   │   └── ui/
-│   ├── data/
-│   │   └── symbols.js
-│   ├── pages/
-│   │   ├── api/
-│   │   ├── categories/
-│   │   ├── _app.js
-│   │   ├── index.js
-│   │   └── [...slug].js
-│   ├── styles/
-│   └── utils/
-├── .gitignore
-├── next.config.js
-├── package.json
-└── README.md
-```
 
-## 功能需求
+Visit `http://localhost:3000` to see the application in action.
 
-1. **符号分类展示**：按类别整理各种符号
-2. **一键复制功能**：点击符号即可复制到剪贴板
-3. **搜索功能**：方便用户快速找到需要的符号
-4. **符号组合器**：允许用户创建自定义的符号组合
-5. **热门符号展示**：显示最受欢迎的符号
-6. **新增符号区**：定期更新新的流行符号
-7. **符号预览**：在不同平台上的显示效果预览
-8. **收藏功能**：用户可以保存常用符号（可选）
+### 📸 Screenshots
 
-## 设计方案
+<p align="center">
+  <img src="https://copyandpastesymbols.pro/screenshots/homepage.png" alt="Copy and Paste Symbols Homepage" width="400">
+  <img src="https://copyandpastesymbols.pro/screenshots/combiner.png" alt="Symbol Combiner Feature" width="400">
+</p>
 
-### 整体设计风格
+### 🤝 Contributing
 
-- 简约现代
-- 响应式设计，适配各种设备
-- 色彩明亮但不刺眼
-- 符号展示区域宽敞清晰
+Contributions are welcome! If you'd like to add new symbols, improve functionality, or fix bugs:
 
-### 页面布局
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-1. **首页**：
-   - 顶部导航栏
-   - 搜索框
-   - 热门符号展示
-   - 分类导航卡片
-   - 广告位
-   - 页脚
+### 📄 License
 
-2. **分类页面**：
-   - 符号网格展示
-   - 筛选选项
-   - 复制提示
-   - 广告位
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-3. **符号组合器页面**：
-   - 符号选择区
-   - 预览区
-   - 保存/分享选项
-   - 广告位
+### 🌐 Live Website
 
-### 符号分类
-
-1. **表情符号**：`(˶˃ ᵕ ˂˶)` `૮꒰ ˶• ༝ •˶꒱ა ♡` 等
-2. **星形符号**：`★` `☆` `✮` `✧` 等
-3. **边框和分隔线**：`─── ⋆⋅☆⋅⋆ ───` `┌─── ∘°❉°∘ ───┐` 等
-4. **文本装饰**：`🎀` `♡` `✩` 等
-5. **闪光和特效**：`✧･ﾟ: *✧･ﾟ:*` `*•.¸¸☆彡★彡☆彡★¸¸.•*` 等
-6. **天文和自然符号**：`☾` `☀︎` `☁︎` 等
-7. **爱心和情感符号**：`❤︎` `♡` `💕` 等
-8. **艺术字体**：`𝓯𝓻𝓮𝓪𝓴𝔂` `𝖂𝖍𝖆𝖙 𝖙𝖍𝖊 𝖘𝖎𝖌𝖒𝖆` 等
-
-## 数据管理
-
-- 符号数据存储在静态 JSON 文件中
-- 按分类组织数据结构
-- 每个符号包含：显示文本、描述、分类标签、热度指数
-
-## SEO 策略
-
-1. **关键词优化**：
-   - 长尾关键词：如"cute text symbols for instagram"
-   - 主要关键词：symbols, copy and paste, cool symbols, text decoration
-
-2. **内容策略**：
-   - 为每个符号类别创建专属页面
-   - 编写说明性文本，解释符号的用途和含义
-   - 创建使用教程和案例展示
-
-3. **技术 SEO**：
-   - 使用 Next.js 的 SSG 功能生成静态页面
-   - 优化元标签和描述
-   - 创建 sitemap.xml 和 robots.txt
-   - 实现结构化数据标记
-
-## 广告集成
-
-1. **广告位置**：
-   - 页面顶部横幅
-   - 符号列表中间插入
-   - 侧边栏
-   - 页面底部
-
-2. **广告策略**：
-   - 非侵入式广告展示
-   - 响应式广告单元
-   - A/B 测试不同广告位置的效果
-   - 考虑用户体验，控制广告数量和大小
-
-## 开发计划
-
-1. **第一阶段**（2周）：
-   - 搭建基本框架
-   - 实现符号数据结构
-   - 开发首页和基本分类页面
-
-2. **第二阶段**（2周）：
-   - 实现复制功能
-   - 完善所有分类页面
-   - 开发搜索功能
-
-3. **第三阶段**（1周）：
-   - 实现符号组合器
-   - 集成广告
-   - SEO 优化
-
-4. **第四阶段**（1周）：
-   - 用户测试
-   - 修复问题
-   - 发布上线
-
-## 部署和维护
-
-- 使用 Vercel 进行部署
-- 设置自动化构建和部署流程
-- 定期更新符号库
-- 监控网站性能和广告收益
-- 根据用户反馈持续优化
-
-## 未来拓展方向
-
-1. 用户账户系统
-2. 自定义符号上传
-3. 符号使用场景展示
-4. 移动应用开发
-5. 多语言支持
+Explore our complete collection of symbols at **[copyandpastesymbols.pro](https://copyandpastesymbols.pro/)**!
 
 ---
 
-本设计方案旨在创建一个功能完善、用户友好且能够产生广告收益的符号复制粘贴网站。通过精心的设计和优化，copyandpastesymbols.pro 有望成为该领域的领先网站。
+<a name="chinese"></a>
+## 中文介绍
+
+**[CopyAndPasteSymbols.pro](https://copyandpastesymbols.pro/)** 是一个提供各种特殊符号、表情和文本装饰的网站，用户可以轻松复制粘贴这些符号到社交媒体、聊天工具或其他平台。
+
+### 主要功能
+
+- **丰富的符号集合**：数千个精心整理的符号，按类别组织
+- **一键复制**：单击即可将任何符号复制到剪贴板
+- **智能搜索**：使用我们的直观搜索功能快速找到完美的符号
+- **符号组合器**：创建自定义符号组合和文本装饰
+- **移动设备友好**：在所有设备和平台上无缝工作
+- **无需注册**：免费使用，无需任何注册
+
+### 技术栈
+
+- **前端框架**：Next.js, React, Tailwind CSS
+- **状态管理**：React Context API
+- **部署**：Vercel
+- **性能优化**：静态站点生成，加载速度极快
+
+访问 **[copyandpastesymbols.pro](https://copyandpastesymbols.pro/)** 探索我们完整的符号集合！
