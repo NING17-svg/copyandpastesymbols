@@ -39,3 +39,11 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# 忽略特定文件
+SEO.MD
+actionlist.md
+
+# 忽略整个文件夹
+/scraper_env/
+/scripts/
