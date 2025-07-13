@@ -2,6 +2,8 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import { SymbolCombinerProvider } from "@/context/SymbolCombinerContext";
+import AdSense from "@/components/layout/AdSense";
+import GoogleAnalytics from "@/components/layout/GoogleAnalytics";
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -35,6 +37,10 @@ export default function RootLayout({
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <link rel="canonical" href="https://copyandpastesymbols.pro/" />
         <meta name="robots" content="noindex" data-path="/favicon.ico" />
+        {/* Google AdSense verification code */}
+        <AdSense />
+        {/* Google Analytics tracking code */}
+        <GoogleAnalytics />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
