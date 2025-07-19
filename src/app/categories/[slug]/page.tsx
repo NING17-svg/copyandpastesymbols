@@ -1,8 +1,15 @@
 import { notFound } from 'next/navigation';
-import { getSymbolsByCategory, categoryInfoList } from '@/data/symbols';
+import { getSymbolsByCategory, categoryInfoList, allCategoryKeys } from '@/data/symbols';
 import MainLayout from '@/components/layout/MainLayout';
 import SymbolGrid from '@/components/symbols/SymbolGrid';
 import Link from 'next/link';
+
+// Generate static paths for all categories
+export async function generateStaticParams() {
+  return allCategoryKeys.map((key) => ({
+    slug: key,
+  }));
+}
 
 export default function CategoryPage({ params }: { params: { slug: string } }) {
   const { slug } = params;

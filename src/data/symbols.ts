@@ -11,16 +11,11 @@ import currencyUnits from './currency_units.json';
 import themed from './themed.json';
 import language from './language.json';
 
+// Base interfaces
 export interface Symbol {
   symbol: string;
   name: string;
   category: string;
-}
-
-export interface Category {
-  name: string;
-  key: string;
-  symbols: Symbol[];
 }
 
 export interface CategoryInfo {
@@ -28,68 +23,34 @@ export interface CategoryInfo {
   name: string;
   description: string;
   icon: string;
+  data: Symbol[];
 }
 
-// 旧的分类数据
-export const allSymbolsByCategory = {
-  emoticons,
-  hearts,
-  starsDecor,
-  weatherNature,
-  arrows,
-  shapesBorders,
-  bracketsPunctuation,
-  mathNumbers,
-  lettersFonts,
-  currencyUnits,
-  themed,
-  language,
-};
-
-// 分类信息
+// Single Source of Truth for Category Information
 export const categoryInfoList: CategoryInfo[] = [
-  { key: 'emoticons', name: 'Emoticons', description: 'Text-based facial expressions and emotions', icon: '(^‿^)' },
-  { key: 'hearts', name: 'Hearts', description: 'Love and affection symbols', icon: '❤' },
-  { key: 'stars', name: 'Stars', description: 'Star symbols and decorations', icon: '★' },
-  { key: 'arrows', name: 'Arrows', description: 'Directional and pointer symbols', icon: '→' },
-  { key: 'currency', name: 'Currency', description: 'Money and currency symbols', icon: '€' },
-  { key: 'music', name: 'Music', description: 'Musical notes and symbols', icon: '♪' },
-  { key: 'math', name: 'Math', description: 'Mathematical symbols and operators', icon: '∑' },
-  { key: 'brackets', name: 'Brackets', description: 'Brackets, parentheses, and quotes', icon: '【】' },
-  { key: 'shapes', name: 'Shapes', description: 'Geometric and decorative shapes', icon: '■' },
-  { key: 'weather', name: 'Weather', description: 'Weather and nature symbols', icon: '☀' },
-  { key: 'games', name: 'Games', description: 'Gaming and card symbols', icon: '♠' },
-  { key: 'letters', name: 'Letters', description: 'Special letter formats and scripts', icon: 'Ⓐ' },
+  { key: 'emoticons', name: 'Emoticons', description: 'Text-based facial expressions and emotions.', icon: '(^‿^)', data: emoticons },
+  { key: 'hearts', name: 'Hearts', description: 'A collection of heart symbols for love and affection.', icon: '❤', data: hearts },
+  { key: 'stars_decor', name: 'Stars & Decor', description: 'Star symbols, sparkles, and decorative characters.', icon: '★', data: starsDecor },
+  { key: 'arrows', name: 'Arrows', description: 'Directional arrows and pointer symbols for all uses.', icon: '→', data: arrows },
+  { key: 'brackets_punctuation', name: 'Brackets & Punctuation', description: 'Stylish brackets, parentheses, and punctuation marks.', icon: '【】', data: bracketsPunctuation },
+  { key: 'currency_units', name: 'Currency & Units', description: 'Symbols for global currencies and measurement units.', icon: '€', data: currencyUnits },
+  { key: 'language', name: 'Language Symbols', description: 'Characters and symbols from various languages.', icon: '文', data: language },
+  { key: 'letters_fonts', name: 'Letters & Fonts', description: 'Special letter formats, scripts, and font styles.', icon: 'Ⓐ', data: lettersFonts },
+  { key: 'math_numbers', name: 'Math & Numbers', description: 'Mathematical operators, numbers, and equations.', icon: '∑', data: mathNumbers },
+  { key: 'shapes_borders', name: 'Shapes & Borders', description: 'Geometric shapes, lines, and decorative borders.', icon: '■', data: shapesBorders },
+  { key: 'themed', name: 'Themed Symbols', description: 'Collections of symbols for specific themes and occasions.', icon: '🎉', data: themed },
+  { key: 'weather_nature', name: 'Weather & Nature', description: 'Symbols representing weather conditions and nature.', icon: '☀', data: weatherNature },
 ];
 
-export const allCategoryNames = Object.keys(allSymbolsByCategory);
+// Derived data, ensuring consistency
+export const allCategoryKeys = categoryInfoList.map(c => c.key);
 
-// 映射旧分类到新分类
-const categoryMapping: Record<string, string> = {
-  emoticons: 'emoticons',
-  hearts: 'hearts',
-  starsDecor: 'stars',
-  arrows: 'arrows',
-  currencyUnits: 'currency',
-  mathNumbers: 'math',
-  bracketsPunctuation: 'brackets',
-  shapesBorders: 'shapes',
-  weatherNature: 'weather',
-  lettersFonts: 'letters',
+const symbolsByCategory = categoryInfoList.reduce((acc, category) => {
+  acc[category.key] = category.data;
+  return acc;
+}, {} as Record<string, Symbol[]>);
+
+export const getSymbolsByCategory = (categoryKey: string): Symbol[] => {
+  return symbolsByCategory[categoryKey] || [];
 };
-
-// 获取符号
-export const getSymbolsByCategory = (category: string): Symbol[] => {
-  // 使用旧的分类数据
-  if (allSymbolsByCategory[category as keyof typeof allSymbolsByCategory]) {
-    return allSymbolsByCategory[category as keyof typeof allSymbolsByCategory];
-  }
-  
-  // 尝试映射到旧分类
-  const mappedCategory = Object.entries(categoryMapping).find(([_, value]) => value === category)?.[0];
-  if (mappedCategory && allSymbolsByCategory[mappedCategory as keyof typeof allSymbolsByCategory]) {
-    return allSymbolsByCategory[mappedCategory as keyof typeof allSymbolsByCategory];
-  }
-  
-  return [];
-}; 
+ 
