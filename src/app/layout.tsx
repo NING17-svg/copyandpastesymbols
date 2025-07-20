@@ -36,7 +36,6 @@ export default function RootLayout({
       <head>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
         <link rel="canonical" href="https://copyandpastesymbols.pro/" />
-        <meta name="robots" content="noindex" data-path="/favicon.ico" />
         {/* Google AdSense verification code */}
         <AdSense />
         {/* Google Analytics tracking code */}
